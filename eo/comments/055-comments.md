@@ -7,7 +7,7 @@ La refreno **"Kiun do el la Donacoj de via Sinjoro vi kontraŭdiros?"** aperas 3
 ## Ĉefaj Traduk-Elektoj
 
 ### "Donacoj" por آلاء (ālā')
-La sona ludo: آلاء (ālā') kaj علي (ʿAlí). En la refreno la sono de Alí resonas tra la tuta surao. La nomo ʿAlí trairas la tutan ĉenon de revelacio: ʿAlí ibn Abí Ṭálib, la Báb (Siyyid ʿAlí-Muḥammad), Bahá'u'lláh (Mírzá Ḥusayn-ʿAlí) — ĉiuj kontraŭdiritaj.
+La sona ludo: آلاء (ālā') kaj علي (ʿAlí). En la refreno la sono de Alí resonas tra la tuta surao. La nomo ʿAlí trairas la tutan ĉenon de malkaŝo: ʿAlí ibn Abí Ṭálib, la Báb (Siyyid ʿAlí-Muḥammad), Bahá'u'lláh (Mírzá Ḥusayn-ʿAlí) — ĉiuj kontraŭdiritaj.
 
 ### "spektroj" por جِنّ (jinn)
 Radiko ج-ن-ن: kaŝi. Spektro estas ĝuste io kaŝita sed ĉeesta. Evitas la Disney-asociojn de "ĝinio."

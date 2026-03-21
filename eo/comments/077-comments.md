@@ -33,7 +33,7 @@ La nekapablo paroli kontrastas kun la Dia donaco de البيان (Esprimo) en 55
 "Se vi havas planon, uzu ĝin kontraŭ Mi" — devastanta Dia defio.
 
 ### v.50: La Ferma Demando
-"Al kiu posta mesaĝo (حديث) do ili kredos?" La surao fermiĝas per frapa demando: se ne ĉi tiu mesaĝo, kiu? Ĉi tio resonas kun la koncepto de progresa revelacio — ĉiu nova حديث (mesaĝo) de Dio konstruas sur la antaŭa.
+"Al kiu posta mesaĝo (حديث) do ili kredos?" La surao fermiĝas per frapa demando: se ne ĉi tiu mesaĝo, kiu? Ĉi tio resonas kun la koncepto de progresa malkaŝo — ĉiu nova حديث (mesaĝo) de Dio konstruas sur la antaŭa.
 
 ## Integraj Ligiloj
 

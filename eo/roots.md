@@ -106,7 +106,7 @@ La du plej gravaj radikoj en la Korano estas ankaŭ ĝiaj du kontraŭaj movadoj:
 **Konvencie:** القرآن = "la Korano" (propra nomo)
 **Radika signifo:** reciti, laŭtlegi, kolekti
 
-**Efiko:** Traduki القرآن kiel "la Recitado" (kiel en 55:2) restarigis la signifon de la vorto. Ĝi ne estas statika librotitolo sed aktiva procezo -- la ago de recitado, de laŭtlegado, de kolektado de signifo per parolo. La unua vorto revelaciita estis اقرأ (iqraʾ, "Recitu!" -- 96:1), de la sama radiko. La Libro estas nomita laŭ tio, kion oni FARAS kun ĝi, ne tio kio ĝi ESTAS.
+**Efiko:** Traduki القرآن kiel "la Recitado" (kiel en 55:2) restarigis la signifon de la vorto. Ĝi ne estas statika librotitolo sed aktiva procezo -- la ago de recitado, de laŭtlegado, de kolektado de signifo per parolo. La unua vorto malkaŝita estis اقرأ (iqraʾ, "Recitu!" -- 96:1), de la sama radiko. La Libro estas nomita laŭ tio, kion oni FARAS kun ĝi, ne tio kio ĝi ESTAS.
 
 ---
 

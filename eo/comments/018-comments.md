@@ -10,7 +10,7 @@ Strukturita ĉirkaŭ kvar paraboloj — la Dormantoj de la Kaverno, la Du Ĝarde
 La radiko signifas freŝa, viva, humida, novkreskinta. Al-Ĥiḍr estas "la Freŝulo" — estaĵo de kaŝita, viva saĝo kiu ne sekiĝas. Konektas al 55:76, kie la kusenoj de la kaŝitaj Regnoj estas خُضْر (freŝaj). La paradiza freŝeco kaj la saĝo de Ĥiḍr estas la sama radika realo.
 
 ### Radiko ج-ن-ن: Kaŝitaj estaĵoj kaj kaŝitaj regnoj
-La Kaverno mem funkcias kiel ĝana (جنة) — kaŝita loko de kaŝo kaj protekto. La junuloj eniras kaŝon (la Kaverno) kaj eliras en revelacion (sia vekiĝo). La movado de kaŝita al manifesta estas la mastra ŝablono de la surao.
+La Kaverno mem funkcias kiel ĝana (جنة) — kaŝita loko de kaŝo kaj protekto. La junuloj eniras kaŝon (la Kaverno) kaj eliras en malkaŝon (sia vekiĝo). La movado de kaŝita al manifesta estas la mastra ŝablono de la surao.
 
 ### La Tri Provoj de Ĥiḍr
 Ĉiu rivelas: la bāṭin estas kompato; la ẓāhir estas konfuzo.

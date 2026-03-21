@@ -27,7 +27,7 @@ La spirita legado:
 - Vitro = la homa koro purigita, travidebla
 - Olivarbo = la eterna fonto de gvidado, transiranta Orienton kaj Okcidenton
 - Oleo = la ennaskita kapablo por vero en ĉiu animo
-- Lumo sur Lumo = revelacio sur revelacio — progresa revelacio mem
+- Lumo sur Lumo = malkaŝo sur malkaŝo — progresa malkaŝo mem
 
 ### Radik-Konektoj
 - **نور** (nūr, lumo) — radiko ن-و-ر. Sama radiko kiel نار (nār, fajro). Lumo kaj fajro dividas radikon — konektas al 55:15 "spektroj (ĝinoj) el la fluo de fajro."

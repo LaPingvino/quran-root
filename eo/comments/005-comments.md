@@ -2,7 +2,7 @@
 
 ## Ĝeneralaj Rimarkoj
 
-Unu el la lastaj revelaciitaj suraoj, legata kiel resumo: interligoj sigelitaj, dieta leĝo finita, la religio deklarita "perfektigita" (v.3). Ĝia arko moviĝas de leĝaj provizoj, tra Kajno/Abelo kaj Moseo, al ampleksa kristologia sekcio kulminanta en la mirakla Tablo.
+Unu el la lastaj malkaŝitaj suraoj, legata kiel resumo: interligoj sigelitaj, dieta leĝo finita, la religio deklarita "perfektigita" (v.3). Ĝia arko moviĝas de leĝaj provizoj, tra Kajno/Abelo kaj Moseo, al ampleksa kristologia sekcio kulminanta en la mirakla Tablo.
 
 ## Ĉefaj Radik-Trovoj
 
