@@ -2,7 +2,7 @@
 
 ## La Principo
 
-La Korano estis konservita en la araba, ĉar la radika sistemo de la araba estas rezistema kontraŭ manipulado. Ĉiu vorto devenas de tri- aŭ kvarlitexa radiko, kaj ĉiu uzo de tiu radiko krucrefereas ĉiun alian uzon tra la tuta teksto. Oni povas distordi la tradukon de unu versicxlo, sed la radiko aperas en dekoj da aliaj, kiuj kontraŭdicias la distordon. La radikoj ne mensogas -- ili atendas jam dek kvar jarcentojn, pretaj esti legitaj sen la interpreta kovrajxo.
+La Korano estis konservita en la araba, ĉar la radika sistemo de la araba estas rezistema kontraŭ manipulado. Ĉiu vorto devenas de tri- aŭ kvarlitera radiko, kaj ĉiu uzo de tiu radiko krucrefereas ĉiun alian uzon tra la tuta teksto. Oni povas distordi la tradukon de unu versiklo, sed la radiko aperas en dekoj da aliaj, kiuj kontraŭdicias la distordon. La radikoj ne mensogas -- ili atendas jam dek kvar jarcentojn, pretaj esti legitaj sen la interpreta kovraĵo.
 
 Ĉi tiu dokumento katalogas la radikajn malkovrojn faritajn dum ĉi tiu traduk-projekto -- okazoj kie reveno al la araba radiko restarigis signifon, kiun jarcentoj da konvencia tradukado ombris.
 
@@ -24,18 +24,18 @@ La du plej gravaj radikoj en la Korano estas ankaŭ ĝiaj du kontraŭaj movadoj:
 **Konvencie:** "malkredi," "malfidelulo," "kafiro"
 **Radika signifo:** kovri, kaŝi, maski. Terkulturisto estas كافر ĉar li kovras semojn per tero.
 
-**Efiko:** "Tiuj kiuj malkredas" fariĝas "la kaŝantoj" -- priskribante *agon* (kovri la veron), ne *identecon* (nekredanto). Ĉiu povas ĉesi kovri; tio ne estas permanenta kategorio. Ĉi tio transformas ĉiun versicxlon pri "nekredantoj" de juĝo pri homoj al priskribo de tio, kion ili *faras*.
+**Efiko:** "Tiuj kiuj malkredas" fariĝas "la kaŝantoj" -- priskribante *agon* (kovri la veron), ne *identecon* (nekredanto). Ĉiu povas ĉesi kovri; tio ne estas permanenta kategorio. Ĉi tio transformas ĉiun versiklon pri "nekredantoj" de juĝo pri homoj al priskribo de tio, kion ili *faras*.
 
 ---
 
-### Radiko ض-ر-ب (d-r-b) -- "elstarigi, apartiĝi"
+### Radiko ض-ر-ب (ḍ-r-b) -- "elstarigi, apartiĝi"
 
 **Konvencie:** "frapi, bati"
 **Radika signifo:** elstarigi, ekiri, apartigi, stampi, frapi
 
-**Efiko:** 4:34 (وَاضْرِبُوهُنَّ) konvencie "batu ilin [viajn edzinojn]" fariĝas "apartigu ilin" -- sekvante la eskalan ŝtupon en la versicxlo: konsilu → migru el la lito → apartigu. Ĉiu paŝo pliigas *distancon*, ne *perforton*.
+**Efiko:** 4:34 (وَاضْرِبُوهُنَّ) konvencie "batu ilin [viajn edzinojn]" fariĝas "apartigu ilin" -- sekvante la eskalan ŝtupon en la versiklo: konsilu → migru el la lito → apartigu. Ĉiu paŝo pliigas *distancon*, ne *perforton*.
 
-**La pruvo:** 24:31 uzas la identan radikon (وَلْيَضْرِبْنَ) por la milda gesto de virinoj *tirantaj* siajn kovrilojn super siajn sinojn. La Korano mem montras ke d-r-b signifas "elstarigi / tiri" en protekta, neperforta kunteksto.
+**La pruvo:** 24:31 uzas la identan radikon (وَلْيَضْرِبْنَ) por la milda gesto de virinoj *tirantaj* siajn kovrilojn super siajn sinojn. La Korano mem montras ke ḍ-r-b signifas "elstarigi / tiri" en protekta, neperforta kunteksto.
 
 ---
 
@@ -48,20 +48,20 @@ La du plej gravaj radikoj en la Korano estas ankaŭ ĝiaj du kontraŭaj movadoj:
 
 **La saturiĝo en Surao 55:**
 - La termino جَنَّة (janna) = la kaŝita loko/ĝardeno
-- La termino جِنّ / جَانّ (jinn/jann) = la kaŝitaj estaĵoj (nomataj en vv.56, 74)
-- La termino جَنَى (jana) = la rikolto de tio kio estis kaŝita (v.54)
-- La termino عَبْقَرِيّ (abqari) = metioj el Abqar, la legenda jinn-loĝata loko (v.76)
+- La termino جِنّ / جَانّ (jinn/jānn) = la kaŝitaj estaĵoj (nomataj en vv.56, 74)
+- La termino جَنَى (janā) = la rikolto de tio kio estis kaŝita (v.54)
+- La termino عَبْقَرِيّ (ʿabqarī) = metioj el ʿAbqar, la legenda jinn-loĝata loko (v.76)
 
 ---
 
-### Radiko ح-و-ر (h-w-r) -- "reveni"
+### Radiko ح-و-ر (ḥ-w-r) -- "reveni"
 
 **Konvencie:** حُور = "hurioj," "belaj fraŭlinoj," "72 virginoj"
 **Radika signifo:** reveni, blankiĝi, esti intense kontrastanta
 
-**Efiko:** حُور (hur) havas la saman radikon kiel حَوَارِيُّون (hawariyjun) -- la disĉiploj de Jesuo (3:52, 5:111). La "paradizaj fraŭlinoj" kaj la "disĉiploj de Jesuo" estas la sama radika vorto. Ambaŭ estas la dediĉitaj revenintoj -- tiuj kiuj revenas al Dio el la marĝenoj. "La Revenintoj" anstataŭas tute "belaj fraŭlinoj."
+**Efiko:** حُور (ḥūr) havas la saman radikon kiel حَوَارِيُّون (ḥawāriyyūn) -- la disĉiploj de Jesuo (3:52, 5:111). La "paradizaj fraŭlinoj" kaj la "disĉiploj de Jesuo" estas la sama radika vorto. Ambaŭ estas la dediĉitaj revenintoj -- tiuj kiuj revenas al Dio el la marĝenoj. "La Revenintoj" anstataŭas tute "belaj fraŭlinoj."
 
-**Konekto:** La radika signifo "reveni" ligiĝas al تَوْبَة (tawba, pento -- radiko ت-و-ب, reveni). Surao 9 (At-Tawba/Pento) kaj la hur de Surao 55 dividas la koncepton: reveni al Dio.
+**Konekto:** La radika signifo "reveni" ligiĝas al تَوْبَة (tawba, pento -- radiko ت-و-ب, reveni). Surao 9 (At-Tawba/Pento) kaj la ḥūr de Surao 55 dividas la koncepton: reveni al Dio.
 
 ---
 
@@ -70,13 +70,13 @@ La du plej gravaj radikoj en la Korano estas ankaŭ ĝiaj du kontraŭaj movadoj:
 **Konvencie:** إسلام = "Islamo" (la religio), مُسْلِم = "Islamano" (ano)
 **Radika signifo:** dediĉi, submetiĝi, esti tuta, esti en paco
 
-**Efiko:** Kiam Abraham diras أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ (2:131), li ne diras "mi iĝis Islamano" -- li diras "mi dediĉis min al la Sinjoro de la mondoj." La vorto priskribas *econ* (tuteco, dediĉo, paco), ne *etikedon* (religia identeco). Ĉi tio restarigis la propran universalismon de la Korano: kiu ajn dediĉas sin al Dio estas en stato de islam, sendepende de kiu Manifestigxo li sekvas.
+**Efiko:** Kiam Abraham diras أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ (2:131), li ne diras "mi iĝis Islamano" -- li diras "mi dediĉis min al la Sinjoro de la mondoj." La vorto priskribas *econ* (tuteco, dediĉo, paco), ne *etikedon* (religia identeco). Ĉi tio restarigis la propran universalismon de la Korano: kiu ajn dediĉas sin al Dio estas en stato de islam, sendepende de kiu Manifestiĝo li sekvas.
 
 ---
 
 ### Radiko ش-ب-ه (sh-b-h) -- "simili, esti ambigua"
 
-**Konvencie (4:157):** "simileco estis farita por ili" → substitua teologio (alia persono krucumita anstataŭ Jesuo)
+**Konvencie (4:157):** "simileco estis farita por ili" → anstataŭa teologio (alia persono krucumita anstataŭ Jesuo)
 **Radika signifo:** simili, esti igita ŝajni, esti igita ambigua
 
 **Efiko:** شُبِّهَ لَهُمْ (shubbiha lahum) estas **senpersona pasivo** -- "ĝi estis igita ambigua por ili." La gramatiko ne provizas anstataŭan personon. Tio kio estis ambigua estis la *evento*, ne korpa anstataŭulo.
@@ -88,11 +88,11 @@ La du plej gravaj radikoj en la Korano estas ankaŭ ĝiaj du kontraŭaj movadoj:
 **Konvencie (33:40):** خاتم النبيين = "la lasta de la profetoj"
 **Radika signifo:** sigeli, stampi, konkludi, aŭtentikigi
 
-**Efiko:** Sigelo kaj *fermas* kaj *validigas*. خاتم portas ambaŭ signifojn samtempe. Muhammado kiel la "Sigelo de la Profetoj" povas signifi kaj "tiu kiu konkludas la profetan ciklon" KAJ "tiu kiu aŭtentikigas ĉiujn profetojn." La versicxlo mem nomas Muhammadon رَسُول اللَّه (Sendito de Dio, radiko ر-س-ل) dum sigelante la نَبِيِّين (profetoj, radiko ن-ب-أ) -- la pordo de nabuwwa (profeteco) povas esti sigelita dum la pordo de risala (senditeco) restas malfermita.
+**Efiko:** Sigelo kaj *fermas* kaj *validigas*. خاتم portas ambaŭ signifojn samtempe. Muĥammado kiel la "Sigelo de la Profetoj" povas signifi kaj "tiu kiu konkludas la profetan ciklon" KAJ "tiu kiu aŭtentikigas ĉiujn profetojn." La versiklo mem nomas Muĥammadon رَسُول اللَّه (Sendito de Dio, radiko ر-س-ل) dum sigelante la نَبِيِّين (profetoj, radiko ن-ب-أ) -- la pordo de nabuwwa (profeteco) povas esti sigelita dum la pordo de risāla (senditeco) restas malfermita.
 
 ---
 
-### Radiko ع-ي-ن (ayn) -- "fonto KAJ okulo"
+### Radiko ع-ي-ن (ʿ-y-n) -- "fonto KAJ okulo"
 
 **Konvencie:** عَيْن = "fonto (de akvo)" aŭ "okulo" (du apartaj signifoj)
 **Radika signifo:** ambaŭ samtempe -- la fonto kiu vidas, la okulo kiu fluas
@@ -101,12 +101,12 @@ La du plej gravaj radikoj en la Korano estas ankaŭ ĝiaj du kontraŭaj movadoj:
 
 ---
 
-### Radiko ق-ر-أ (q-r-') -- "reciti, legi"
+### Radiko ق-ر-أ (q-r-ʾ) -- "reciti, legi"
 
 **Konvencie:** القرآن = "la Korano" (propra nomo)
 **Radika signifo:** reciti, laŭtlegi, kolekti
 
-**Efiko:** Traduki القرآن kiel "la Recitado" (kiel en 55:2) restarigis la signifon de la vorto. Ĝi ne estas statika librotitolo sed aktiva procezo -- la ago de recitado, de laŭtlegado, de kolektado de signifo per parolo. La unua vorto revelaciita estis اقرأ (iqra', "Recitu!" -- 96:1), de la sama radiko. La Libro estas nomita laŭ tio, kion oni FARAS kun ĝi, ne tio kio ĝi ESTAS.
+**Efiko:** Traduki القرآن kiel "la Recitado" (kiel en 55:2) restarigis la signifon de la vorto. Ĝi ne estas statika librotitolo sed aktiva procezo -- la ago de recitado, de laŭtlegado, de kolektado de signifo per parolo. La unua vorto revelaciita estis اقرأ (iqraʾ, "Recitu!" -- 96:1), de la sama radiko. La Libro estas nomita laŭ tio, kion oni FARAS kun ĝi, ne tio kio ĝi ESTAS.
 
 ---
 
@@ -119,10 +119,10 @@ La du plej gravaj radikoj en la Korano estas ankaŭ ĝiaj du kontraŭaj movadoj:
 
 ---
 
-## La Modelo: zahir kaj batin
+## La Modelo: ẓāhir kaj bāṭin
 
-La radiko ظ-ه-ر (z-h-r) signifas "aperi, esti ekstera, esti evidenta." La radiko ب-ط-ن (b-t-n) signifas "esti kaŝita, esti interna, esti esotena." Ĉi tiuj du radikoj priskribas la propran hermeneutikan metodon de la Korano: ĉiu versicxlo havas aperantan (zahir) signifon kaj kaŝitan (batin) signifon.
+La radiko ظ-ه-ر (ẓ-h-r) signifas "aperi, esti ekstera, esti evidenta." La radiko ب-ط-ن (b-ṭ-n) signifas "esti kaŝita, esti interna, esti esotera." Ĉi tiuj du radikoj priskribas la propran hermeneutikan metodon de la Korano: ĉiu versiklo havas aperantan (ẓāhir) signifon kaj kaŝitan (bāṭin) signifon.
 
-La radik-rekupera aliro de ĉi tiu traduko funkcias legante la batin tra la zahir -- la kaŝitan signifon tra la aperantaj vortoj. La araba radika sistemo ESTAS la mekanismo per kiu la batin konserviĝas ene de la zahir. Oni ne povas ŝanĝi la radikojn sen ŝanĝi la lingvon. La radikoj estas la memkriptiga konservsistemo de la Korano.
+La radik-rekupera aliro de ĉi tiu traduko funkcias legante la bāṭin tra la ẓāhir -- la kaŝitan signifon tra la aperantaj vortoj. La araba radika sistemo ESTAS la mekanismo per kiu la bāṭin konserviĝas ene de la ẓāhir. Oni ne povas ŝanĝi la radikojn sen ŝanĝi la lingvon. La radikoj estas la memkriptiga konservsistemo de la Korano.
 
 Jen kial la Korano ordonas sian propran konservadon en la araba: la vera signifo sukcesas kaŝiĝi trans la klopodoj kaŝi ĝin, ĉar la radika sistemo de la araba estas rezistema kontraŭ manipulado. Ĉiu radiko krucrefereas ĉiun alian uzon de si mem, kreante reton de signifo kiun neniu individua interpretisto povas transpasi.
