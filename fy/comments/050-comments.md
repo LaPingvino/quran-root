@@ -4,12 +4,12 @@
 
 De surah fan godlike yntimiteit: "Wy binne him neier as syn halsslaachier." De meast radikale ferklearring fan godlike immaninsje yn de Foardracht, yn balâns mei de transindinsje fan 57:3.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel q-r-b — "neierens" (f.16)
-"Wy binne him neier as syn halsslaachier (habl al-warid)." De woartel q-r-b beskriuwt Gods neierens as yntimer as it lichems syn eigen bloedsomloop. De halsslaachier draacht bloed nei de harsens — de sit fan bewustwêzen. God is neier as jins eigen selsbesef.
+### Stam q-r-b — "neierens" (f.16)
+"Wy binne him neier as syn halsslaachier (habl al-warid)." De stam q-r-b beskriuwt Gods neierens as yntimer as it lichems syn eigen bloedsomloop. De halsslaachier draacht bloed nei de harsens — de sit fan bewustwêzen. God is neier as jins eigen selsbesef.
 
-### Woartel r-q-b — "waaksje" (ff.17-18)
+### Stam r-q-b — "waaksje" (ff.17-18)
 "De twa ûntfangers ûntfange, sittend oan de rjochter- en de lofterkant. Hy út gjin wurd of der is by him in waakser (raqib), ree." Elke útspraak wurdt fêstlein — net as tafersjoch mar as kosmyske tsjûgenis.
 
 ### De naadleaze himel (f.6)

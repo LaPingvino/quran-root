@@ -4,16 +4,16 @@
 
 De surah fan de skepping har doel yn ien sin: "Ik skoep de ferburgenen en de minskheid net útsein dat sy My oanbidde meie." En de útwreidzjende himel — "Wy binne de útwreiders."
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel dh-r-w — "fersprute, wanne" (f.1)
-"By de fersprieders dy't fersprute." De woartel betsjut fersprute, wanne, yn de wyn fersprude. De wynden fersprute sawol skeppend (sied, rein) as ferneatigend (beskavingen). Gods agintskippen fersprute yn beide rjochtingen.
+### Stam dh-r-w — "fersprute, wanne" (f.1)
+"By de fersprieders dy't fersprute." De stam betsjut fersprute, wanne, yn de wyn fersprude. De wynden fersprute sawol skeppend (sied, rein) as ferneatigend (beskavingen). Gods agintskippen fersprute yn beide rjochtingen.
 
-### Woartel '-b-d — "oanbidde, tsjinje" (f.56)
+### Stam '-b-d — "oanbidde, tsjinje" (f.56)
 "Ik skoep de ferburgenen en de minskheid net útsein dat sy My oanbidde meie (liya'budun)." De meast beknopte ferklearring fan it doel fan de skepping yn de Foardracht. Sawol ferburgenen (j-n-n) as minskheid diele itselde doel: oanbidding. De ferburgen en sichtbere diminsjes ferienje har yn ien funksje.
 
-### Woartel w-s-' — "útwreidzje" (f.47)
-"De himel, Wy bouden it mei macht, en wiswier, Wy binne de útwreiders (lamusi'un)." De woartel betsjut útwreidzje, rom wêze. Lêzen yn it ljocht fan moderne kosmology beskriuwt dit it útwreidzjende hielal. It dielwurd musi'un is aktyf en oanhâldend: God wreidet noch altyd út.
+### Stam w-s-' — "útwreidzje" (f.47)
+"De himel, Wy bouden it mei macht, en wiswier, Wy binne de útwreiders (lamusi'un)." De stam betsjut útwreidzje, rom wêze. Lêzen yn it ljocht fan moderne kosmology beskriuwt dit it útwreidzjende hielal. It dielwurd musi'un is aktyf en oanhâldend: God wreidet noch altyd út.
 
 ## Yntegrative Ferbiningen
 

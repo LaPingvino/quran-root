@@ -2,17 +2,17 @@
 
 ## Algemene opmerkingen
 
-De gehele soera is de verborgen dimensie die spreekt. De verschijningen — de verborgenen (wortel ج-ن-ن) — zijn luisteraars naar de openbaring. Zij ontvangen de Voordracht niet als rivalen maar als ontvangers.
+De gehele soera is de verborgen dimensie die spreekt. De verschijningen — de verborgenen (stam ج-ن-ن) — zijn luisteraars naar de openbaring. Zij ontvangen de Voordracht niet als rivalen maar als ontvangers.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ج-ن-ن (j-n-n) — de meesterwortel der soera
+### v.1: Stam ج-ن-ن (j-n-n) — de meesterstam der soera
 "Een gezelschap der verschijningen luisterde en zeide: 'Voorwaar, wij hebben een wonderbare Voordracht gehoord.'" De verborgenen herkennen de waarheid der Voordracht eerder dan vele mensen. De conventionele vrees voor de djinn wordt omgekeerd: de verborgen dimensie is niet vijandig aan openbaring maar aangetrokken.
 
-### v.14: Wortel س-ل-م (s-l-m) — "toewijding"
+### v.14: Stam س-ل-م (s-l-m) — "toewijding"
 "Onder ons zijn de Toegewijden (المسلمون), en onder ons zijn de onrechtvaardigen." De verschijningen delen zich in Toegewijden en onrechtvaardigen. Toewijding is geen uitsluitend menselijke categorie — zelfs de onzichtbare krachten der schepping kunnen in een staat van islaam (heelheid, overgave) verkeren of niet.
 
-### vv.26–27: Wortel غ-ي-ب (gh-j-b) — "het onzienbare"
+### vv.26–27: Stam غ-ي-ب (gh-j-b) — "het onzienbare"
 "Kenner van het onzienbare (الغيب)! Hij onthult aan niemand Zijn onzienbare, dan aan een boodschapper die Hij goedkeurt." De soera over de verborgenen besluit met Gods exclusieve kennis van het verborgene. De verschijningen weten dat zij verborgen zijn; slechts God kent het volle onzienbare.
 
 ## Integratieve verbanden

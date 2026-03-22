@@ -25,15 +25,15 @@ In v.53: "Gij kunt niemand doen horen dan hen die geloven in Onze tekenen, want 
 
 ## v.30: De fitra — de oorspronkelijke natuur
 
-"De natuur Gods naar welke Hij de mensen heeft geschapen. Er is geen verandering in de schepping Gods." Wortel ف-ط-ر: splijten, voor het eerst voortbrengen, scheppen. De fitra is niet slechts "menselijke natuur" maar het oorspronkelijke goddelijke patroon — het stempel waarmee elke ziel wordt geslagen. "Er is geen verandering" betekent dat de fitra voortbestaat onder elke bedekking. Dit verbindt met 7:172 (het oerverbond): elke ziel kent God reeds vóór de geboorte. Het verhullen (k-f-r) bedekt deze oorspronkelijke kennis.
+"De natuur Gods naar welke Hij de mensen heeft geschapen. Er is geen verandering in de schepping Gods." Stam ف-ط-ر: splijten, voor het eerst voortbrengen, scheppen. De fitra is niet slechts "menselijke natuur" maar het oorspronkelijke goddelijke patroon — het stempel waarmee elke ziel wordt geslagen. "Er is geen verandering" betekent dat de fitra voortbestaat onder elke bedekking. Dit verbindt met 7:172 (het oerverbond): elke ziel kent God reeds vóór de geboorte. Het verhullen (k-f-r) bedekt deze oorspronkelijke kennis.
 
 ## v.39: Woeker en aalmoezen — twee economieën
 
-"Hetgeen gij geeft op woeker, het neemt niet toe bij God. En hetgeen gij geeft aan aalmoezen, dezen zijn de vermeerderden." Wortel ر-ب-و: groeien, zwellen, toenemen. Het contrast is vernietigend: woeker vermeerdert menselijke rijkdom maar niet de goddelijke stand, terwijl aalmoezen zich bij God vermeerderen. Twee economieën die volgens tegengestelde wetten werken.
+"Hetgeen gij geeft op woeker, het neemt niet toe bij God. En hetgeen gij geeft aan aalmoezen, dezen zijn de vermeerderden." Stam ر-ب-و: groeien, zwellen, toenemen. Het contrast is vernietigend: woeker vermeerdert menselijke rijkdom maar niet de goddelijke stand, terwijl aalmoezen zich bij God vermeerderen. Twee economieën die volgens tegengestelde wetten werken.
 
 ## v.41: Verderf op het land en de zee
 
-"Verderf is verschenen op het land en de zee door hetgeen de handen der mensen hebben verworven." Wortel ف-س-د (verderf) verbindt ecologische verwoesting met moreel falen — de buitenwereld weerspiegelt de innerlijke toestand. Een vers van treffende hedendaagse urgentie.
+"Verderf is verschenen op het land en de zee door hetgeen de handen der mensen hebben verworven." Stam ف-س-د (verderf) verbindt ecologische verwoesting met moreel falen — de buitenwereld weerspiegelt de innerlijke toestand. Een vers van treffende hedendaagse urgentie.
 
 ## v.54: De cyclus van zwakte en kracht
 

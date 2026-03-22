@@ -4,12 +4,12 @@
 
 De minske wie ienris "in ding net yndachtich" — yn in j-n-n-tastân fan ferberging, doe fuortbrocht yn in '-n-s-tastân fan manifestaasje. Dit echoot direkt 55:3 "Hy skoep de minske."
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel '-n-s — "de minske"
-De woartel draacht de sin fan sosjaal, sichtber, fertroud — it tsjinoerstelde fan j-n-n (ferberging). De Minske is de skynbere wjergader fan de Ferburgenen. De surah iepenet mei in tiid foar de minskelike manifestaasje — doe't er ferburgen wie, net yndachtich. Skepping as de died fan it ferburgen yn it skynbere bringen.
+### Stam '-n-s — "de minske"
+De stam draacht de sin fan sosjaal, sichtber, fertroud — it tsjinoerstelde fan j-n-n (ferberging). De Minske is de skynbere wjergader fan de Ferburgenen. De surah iepenet mei in tiid foar de minskelike manifestaasje — doe't er ferburgen wie, net yndachtich. Skepping as de died fan it ferburgen yn it skynbere bringen.
 
-### Woartel sh-k-r tsjinoer k-f-r — "tankberens" tsjinoer "ferberging" (f.3)
+### Stam sh-k-r tsjinoer k-f-r — "tankberens" tsjinoer "ferberging" (f.3)
 "Oft hy tankber (shakiran) wêze sil of ûntankber (kafuran)." De twa mooglikheden: sh-k-r (iepening, tankberens) tsjinoer k-f-r (bedekking, ûntankberens). De fûnemintele kar fan de minske tusken ûntbleatse en bedekke.
 
 ### Salsabil (f.18)

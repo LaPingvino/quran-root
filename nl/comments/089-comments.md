@@ -4,15 +4,15 @@
 
 De dageraad als de opensplijting der duisternis — het dagelijkse bewijs dat duisternis niet standhoudt. De eed bij de dageraad zweert bij de dagelijkse opstanding.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ف-ج-ر (f-dj-r) — "opensplijten, dageraad"
-De wortel geeft ook فجور (foedjoer, goddeloosheid) — letterlijk een losbarsting van kwaad. Dageraad en goddeloosheid delen een wortel omdat beide door een oppervlak breken. De eed "bij de Dageraad" zweert bij het dagelijkse bewijs dat duisternis niet standhoudt.
+### v.1: Stam ف-ج-ر (f-dj-r) — "opensplijten, dageraad"
+De stam geeft ook فجور (foedjoer, goddeloosheid) — letterlijk een losbarsting van kwaad. Dageraad en goddeloosheid delen een stam omdat beide door een oppervlak breken. De eed "bij de Dageraad" zweert bij het dagelijkse bewijs dat duisternis niet standhoudt.
 
-### vv.27–30: Wortel ن-ف-س (n-f-s) — "ziel, adem"
-"O gij ziel in vrede! Keer terug tot uw Heer." **النفس المطمئنة** — de ziel in vrede, het gevestigde zelf. De hoogste standplaats der ziel in de Voordracht. Het bevel "keer terug" (ارجعي) gebruikt dezelfde wortel als radj' (terugkeer) in 86:11. Regen keert terug, zielen keren terug.
+### vv.27–30: Stam ن-ف-س (n-f-s) — "ziel, adem"
+"O gij ziel in vrede! Keer terug tot uw Heer." **النفس المطمئنة** — de ziel in vrede, het gevestigde zelf. De hoogste standplaats der ziel in de Voordracht. Het bevel "keer terug" (ارجعي) gebruikt dezelfde stam als radj' (terugkeer) in 86:11. Regen keert terug, zielen keren terug.
 
-### v.21: Wortel د-ك-ك (d-k-k) — "verpulveren"
+### v.21: Stam د-ك-ك (d-k-k) — "verpulveren"
 "Wanneer de aarde vergruisd wordt, vergruizing op vergruizing (دكا دكا)." De aarde die als wieg was uitgespreid (78:6) wordt tot niets vermalen.
 
 ## Integratieve verbanden

@@ -14,7 +14,7 @@ In v.92: "Kenner van het verborgene en het zichtbare!" God kent zowel het zichtb
 
 ## vv.1–11: Het profiel van de gelovige
 
-De geslaagde gelovigen zijn: ootmoedig in het gebed, zich afkerend van ijdel gepraat, werkzaam in het geven van aalmoezen, hun kuisheid bewarend, hun toevertrouwde goederen en verbond honend, over hun gebeden de wacht houdend. Zij zijn "de erfgenamen die het Paradijs zullen erven" (vv.10–11). Wortel و-ر-ث (erven) impliceert een reeds bestaand recht — de gelovigen verdienen het Paradijs niet door handel maar erven wat altijd al het hunne was.
+De geslaagde gelovigen zijn: ootmoedig in het gebed, zich afkerend van ijdel gepraat, werkzaam in het geven van aalmoezen, hun kuisheid bewarend, hun toevertrouwde goederen en verbond honend, over hun gebeden de wacht houdend. Zij zijn "de erfgenamen die het Paradijs zullen erven" (vv.10–11). Stam و-ر-ث (erven) impliceert een reeds bestaand recht — de gelovigen verdienen het Paradijs niet door handel maar erven wat altijd al het hunne was.
 
 ## vv.12–14: De scheppingsfasen
 

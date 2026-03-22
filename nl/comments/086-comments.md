@@ -4,15 +4,15 @@
 
 De doorborende ster klopt op de duisternis — openbaring als een nachtkomer die arriveert wanneer men het minst verwacht en doordringt.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ط-ر-ق (th-r-q) — "kloppen, bij nacht komen"
-**الطارق** — degene die bij nacht klopt. De wortel draagt zowel de zin van nachtelijke aankomst als van hameren/slaan. De doorborende ster is niet slechts helder maar arriveert — zij klopt op de duisternis.
+### v.1: Stam ط-ر-ق (th-r-q) — "kloppen, bij nacht komen"
+**الطارق** — degene die bij nacht klopt. De stam draagt zowel de zin van nachtelijke aankomst als van hameren/slaan. De doorborende ster is niet slechts helder maar arriveert — zij klopt op de duisternis.
 
-### v.11: Wortel ر-ج-ع (r-dj-ayn) — "terugkeren"
+### v.11: Stam ر-ج-ع (r-dj-ayn) — "terugkeren"
 "De hemel van de terugkerende regen (الرجع)." De terugkeer van de regen en de terugkeer van de mens worden samen bezworen — natuurlijke kringlopen getuigen van opstanding.
 
-### v.12: Wortel ص-د-ع (s-d-ayn) — "splijten"
+### v.12: Stam ص-د-ع (s-d-ayn) — "splijten"
 "De aarde van het splijtende zaad (الصدع)." De gepaarde eden — terugkerende regen boven, splijtende aarde beneden — kaderen de schepping als een kringloop van nederdaling en opkomst, precies zoals de opstanding zal zijn.
 
 ## Integratieve verbanden

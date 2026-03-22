@@ -4,15 +4,15 @@
 
 De zahir-soera: de Profeet is gehuld en het bevel luidt "Sta op en waarschuw!" De gehele boog van gehuld naar waarschuwer weerspiegelt de zahir/batin-dynamiek van 57:3.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel د-ث-ر (d-th-r) — "hullen, wikkelen"
+### v.1: Stam د-ث-ر (d-th-r) — "hullen, wikkelen"
 De Profeet is letterlijk verhuld — in een j-n-n-achtige staat van verborgenheid. Het bevel "Sta op en waarschuw!" is het bevel om uit de verhulling te treden in de openbaarheid. Wat verborgen is moet zich openbaren.
 
 ### v.30: "Boven hem zijn negentien"
 Het meest numeriek geladen vers der Voordracht. V.31 verklaart ogenblikkelijk: het getal is "een beproeving voor degenen die verhuld hebben" en een middel tot zekerheid voor het Volk des Boeks. Het getal 19 heeft enorme exegese opgewekt — van de bahaa'ie-kalender (19 maanden van 19 dagen) tot aanspraken over de wiskundige structuur der Voordracht.
 
-### vv.18–20: Wortel ق-د-ر (q-d-r) — "meten"
+### vv.18–20: Stam ق-د-ر (q-d-r) — "meten"
 "Hij overdacht en hij mat (قَدَّرَ). Moge hij vergaan, hoe mat hij!" De man meet de Voordracht naar menselijke maatstaven en bevindt haar te kort — zijn meetwerktuig is te klein voor het gemeten voorwerp. De dubbele verwensing benadrukt de ijdelheid.
 
 ## Integratieve verbanden

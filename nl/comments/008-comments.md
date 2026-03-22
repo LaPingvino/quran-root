@@ -8,9 +8,9 @@
 
 Het bevel gaat van **God aan de engelen** — niet aan menselijke strijders. De gelovigen worden *versterkt* (thabbitoe, vastmaken), niet bevolen te slaan.
 
-### Wortelanalyse
+### Stamanalyse
 
-- **Fadriboe** (wortel ض-ر-ب, d-r-b): dezelfde wortel als 4:34 en 24:31. Hier in strijdcontext draagt het de martiale betekenis. Maar let op:
+- **Fadriboe** (stam ض-ر-ب, d-r-b): dezelfde stam als 4:34 en 24:31. Hier in strijdcontext draagt het de martiale betekenis. Maar let op:
 - **Fawqa al-a'naaq** — *boven* de nekken. Fawq = boven, voorbij. Indien het eenvoudig "onthoofd" bedoelde, zou het Arabisch "idriboe al-a'naaq" zeggen (vgl. 47:4). De toevoeging van fawq (boven) is eigenaardig. Wat is boven de nek? Het hoofd — de zetel van wil, trots, eigenzinnigheid. Geestelijk gelezen: sla hun hoogmoed, hun eigenmachtigheid.
 - **Koella banaan** — elke vingertop. Ontneemt het vermogen te grijpen en vast te houden. Geestelijk: ontneemt hun greep op de macht.
 
@@ -22,7 +22,7 @@ Dit vers **ontneemt** het geweld uitdrukkelijk aan menselijk handelen. "Gij dood
 
 "En indien zij neigen tot vrede, neig dan daartoe, en stel uw vertrouwen in God."
 
-Djanaahoe (wortel ج-ن-ح, neigen) — als een vogel die zwenkt. De neiging is naar as-salm (vrede/overgave, wortel س-ل-م — de toewijdingswortel!). Dezelfde soera die engelenstrijd beschrijft (v.12) gebiedt neiging tot vrede (v.61). Oorlog is goddelijk antwoord op specifieke aanval; vrede is de grondtoestand.
+Djanaahoe (stam ج-ن-ح, neigen) — als een vogel die zwenkt. De neiging is naar as-salm (vrede/overgave, stam س-ل-م — de toewijdingsstam!). Dezelfde soera die engelenstrijd beschrijft (v.12) gebiedt neiging tot vrede (v.61). Oorlog is goddelijk antwoord op specifieke aanval; vrede is de grondtoestand.
 
 ## Integratieve verbanden
 

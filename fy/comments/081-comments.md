@@ -4,15 +4,15 @@
 
 De sinne wurdt "opwûn" as in tulband — har ljocht net ferneatigje mar weiberge. En it libbend begroeven famke wurdt frege foar hokker sûnde se deade waard — de stimleaze kriget in stim.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel k-w-r — "opwinne, wikkele" (f.1)
+### Stam k-w-r — "opwinne, wikkele" (f.1)
 De sinne wurdt opwûn as in tulband — de skepping weiberge. Wat by de skepping ûntfâlde waard, wurdt weromwûn.
 
-### Woartel w-'-d — "libbend begrave" (ff.8-9)
+### Stam w-'-d — "libbend begrave" (ff.8-9)
 "As it libbend begroeven famke frege wurdt foar hokker sûnde se deade waard." De Foardracht neamt it slachtoffer, net de misdied. Op de Dei is it fermoarde famke de tsjûge — de stimleaze kriget in stim.
 
-### Woartel kh-n-s — "weromwike" (f.15)
+### Stam kh-n-s — "weromwike" (f.15)
 "De weromwikenden, de rinners, de ferbergers" — ferburgen himelske bewegingen dy't swarre by de wierheid fan iepenbaring.
 
 ## Yntegrative Ferbiningen

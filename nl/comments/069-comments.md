@@ -4,15 +4,15 @@
 
 De drievoudige aanroeping — benoemen, bevragen, opnieuw bevragen — weerspiegelt de structuur: het Werkelijke kan niet van tevoren gekend worden, slechts aangekondigd.
 
-## Wortelanalyse
+## Stamanalyse
 
-### vv.1–3: Wortel ح-ق-ق (h-q-q) — "werkelijkheid, waarheid"
-**الحَاقَّة** — de Onvermijdelijke Werkelijkheid. De wortel betekent waar zijn, werkelijk zijn, noodzakelijk zijn. De Dag die geschieden moet omdat zij waar is.
+### vv.1–3: Stam ح-ق-ق (h-q-q) — "werkelijkheid, waarheid"
+**الحَاقَّة** — de Onvermijdelijke Werkelijkheid. De stam betekent waar zijn, werkelijk zijn, noodzakelijk zijn. De Dag die geschieden moet omdat zij waar is.
 
-### vv.19–25: Wortel ي-م-ن / ش-م-ل (j-m-n / sj-m-l) — "rechterhand / linkerhand"
+### vv.19–25: Stam ي-م-ن / ش-م-ل (j-m-n / sj-m-l) — "rechterhand / linkerhand"
 De rechtvaardige ontvangt zijn boek in de rechterhand, de ellendige in de linker. De rechterhandontvanger zegt "ik wist (عَلِمْتُ) dat ik mijn afrekening zou tegemoetgaan" — kennis ging aan de gebeurtenis vooraf. De linkerhandontvanger zegt "had ik maar niet geweten" — kennis is onverdraaglijk.
 
-### vv.40–43: Wortel ك-ل-م (k-l-m) — "spraak"
+### vv.40–43: Stam ك-ل-م (k-l-m) — "spraak"
 "Het is de spraak van een edele Boodschapper... niet de spraak van een dichter... noch van een waarzegger." De Boodschapper spreekt doch de woorden zijn niet de zijne — het onderscheid wordt afgedwongen met de dreiging van vv.44–47.
 
 ## Integratieve verbanden

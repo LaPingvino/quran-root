@@ -2,18 +2,18 @@
 
 ## Algemiene Opmerkingen
 
-De surah fan de zahir/batin-ferklearring: "Hy is de Earste en de Lêste, de Skynbere en de Ferburgen." En it izer dat "delstjoerd" wurdt — deselde woartel as foar skrift. Moderne astrofysika befêstiget: izer wurdt smeid yn stjerrekernen.
+De surah fan de zahir/batin-ferklearring: "Hy is de Earste en de Lêste, de Skynbere en de Ferburgen." En it izer dat "delstjoerd" wurdt — deselde stam as foar skrift. Moderne astrofysika befêstiget: izer wurdt smeid yn stjerrekernen.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel z-h-r / b-t-n — "de Skynbere en de Ferburgen" (f.3)
-It definiearjende zahir/batin-fers fan de hiele Foardracht. God claimt beide diminsjes as Syn eigen natuer. Dit fers is de teologyske folmacht foar de woartelherwinningsmetoade: it sykjen fan de batin binnen de zahir is it sykjen fan God binnen God.
+### Stam z-h-r / b-t-n — "de Skynbere en de Ferburgen" (f.3)
+It definiearjende zahir/batin-fers fan de hiele Foardracht. God claimt beide diminsjes as Syn eigen natuer. Dit fers is de teologyske folmacht foar de stamherwinningsmetoade: it sykjen fan de batin binnen de zahir is it sykjen fan God binnen God.
 
-### Woartel n-z-l — "delstjoere" (f.25)
-"Wy stjoerden it izer del (anzalna)." Deselde woartel as foar skrift. Izer wurdt net inkeld dolven — it is kosmysk levere. Moderne astrofysika befêstiget: izer wurdt smeid yn stjerrekernen en supernova's, letterlik fan de himelen delstjoerd.
+### Stam n-z-l — "delstjoere" (f.25)
+"Wy stjoerden it izer del (anzalna)." Deselde stam as foar skrift. Izer wurdt net inkeld dolven — it is kosmysk levere. Moderne astrofysika befêstiget: izer wurdt smeid yn stjerrekernen en supernova's, letterlik fan de himelen delstjoerd.
 
-### Woartel r-h-b — "monastisisme" (f.27)
-"En monastisisme hawwe sy útfûn — Wy hawwe it har net foarskreaun." De woartel betsjut freze, yn ûntsach wêze. It fers feroardielt net de ympuls mar it net goed neikomme derfan — sy sochten Gods welbehagen mar holden har eigen ferbûn net.
+### Stam r-h-b — "monastisisme" (f.27)
+"En monastisisme hawwe sy útfûn — Wy hawwe it har net foarskreaun." De stam betsjut freze, yn ûntsach wêze. It fers feroardielt net de ympuls mar it net goed neikomme derfan — sy sochten Gods welbehagen mar holden har eigen ferbûn net.
 
 ## Yntegrative Ferbiningen
 

@@ -4,15 +4,15 @@
 
 Er zijn meerdere opgangswijzen tot God, niet één. De opgang duurt vijftigduizend jaar — geestelijk klimmen is niet ogenblikkelijk. De mens is geschapen als angstig wezen.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.3: Wortel ع-ر-ج ('ayn-r-dj) — "opstijgen"
+### v.3: Stam ع-ر-ج ('ayn-r-dj) — "opstijgen"
 **المَعَارِج** — de opgangswijzen, meervoud. Er zijn meerdere wegen van opgang tot God. V.4: de engelen en de Geest stijgen op "in een Dag wiens maat vijftigduizend jaren is." De meervoudige opgangen en de onmetelijke duur suggereren dat de reis tot God gevarieerd en lang is.
 
-### v.19: Wortel ه-ل-ع (h-l-ayn) — "angst"
+### v.19: Stam ه-ل-ع (h-l-ayn) — "angst"
 "De mens is geschapen als angstig wezen (هَلُوعًا)." Een zeldzaam woord — een hapax legomenon. Angst is geen ongeval maar een geschapen toestand. De angst schommelt tussen paniek (v.20, als kwaad hem treft) en inhalen (v.21, als goed hem treft). De genezing staat in vv.22–34: gebed, liefdadigheid, kuisheid, trouw, getuigenis.
 
-### v.16: Wortel ن-ز-ع (n-z-ayn) — "verwijderen"
+### v.16: Stam ن-ز-ع (n-z-ayn) — "verwijderen"
 De Laaiende Vlam verwijdert de شَوَى (uiteinden, buitenhuid) — zij verwijdert het zahir om het batin bloot te leggen. Hellevuur als de gedwongen verwijdering van bedekkingen.
 
 ## Integratieve verbanden

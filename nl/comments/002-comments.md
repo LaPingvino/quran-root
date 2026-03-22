@@ -4,13 +4,13 @@
 
 De langste soera (286 verzen), een alomvattend handvest: theologie, wet, geschiedenis en geestelijke leiding. Zij opent met dezelfde driedeling als de korte soera's — gelovigen, zij die verhullen, huichelaars — en verbindt Adam, de Kinderen Israëls en Abraham met de nieuwe gemeenschap.
 
-## Sleutelwortels
+## Sleutelstammen
 
 ### "verhullen" voor كفر (kafara)
-Wortel ك-ف-ر (k-f-r): bedekken, verhullen. Een boer is كافر omdat hij zaad met aarde bedekt. "Ongeloof" legt een theologische categorie op die het Arabisch niet bevat; het beschrijft een *handeling* — waarheid bedekken die reeds gekend is (vgl. v.42 "verhult de waarheid niet terwijl gij weet").
+Stam ك-ف-ر (k-f-r): bedekken, verhullen. Een boer is كافر omdat hij zaad met aarde bedekt. "Ongeloof" legt een theologische categorie op die het Arabisch niet bevat; het beschrijft een *handeling* — waarheid bedekken die reeds gekend is (vgl. v.42 "verhult de waarheid niet terwijl gij weet").
 
 ### "plaatsvervanger" voor خليفة (khalifa)
-Wortel خ-ل-ف: opvolgen, vertegenwoordigen. Adam als Gods plaatsvervanger op aarde — niet slechts een opvolger maar iemand aan wie goddelijk gezag is toevertrouwd.
+Stam خ-ل-ف: opvolgen, vertegenwoordigen. Adam als Gods plaatsvervanger op aarde — niet slechts een opvolger maar iemand aan wie goddelijk gezag is toevertrouwd.
 
 ## Kernverzen
 
@@ -21,25 +21,25 @@ Wortel خ-ل-ف: opvolgen, vertegenwoordigen. Adam als Gods plaatsvervanger op a
 Toegewijden, joden, christenen en Sabiërs — allen die in God en de Laatste Dag geloven en goed doen — ontvangen hun beloning. Dit vers ondermijnt elke exclusivistische lezing.
 
 ### v.71: De gave koe — islam als hoedanigheid
-مُسَلَّمَةٌ (musallamat) — "onbevlekt," van wortel س-ل-م (s-l-m). De onbevlekte koe bevindt zich letterlijk in een staat van *islam* — heelheid, vrede, toewijding. Het woord beschrijft een hoedanigheid, geen godsdienstig etiket.
+مُسَلَّمَةٌ (musallamat) — "onbevlekt," van stam س-ل-م (s-l-m). De onbevlekte koe bevindt zich letterlijk in een staat van *islam* — heelheid, vrede, toewijding. Het woord beschrijft een hoedanigheid, geen godsdienstig etiket.
 
 ### v.106: Overschrijving, geen afschaffing
-Wortel ن-س-خ (n-s-kh): de hoofdbetekenis is *kopiëren, overschrijven*, niet "afschaffen." "Welk teken Wij ook overschrijven of doen vergeten, Wij brengen een beter of gelijk." Elke bedeling is een nieuwe overschrijving van de eeuwige boodschap.
+Stam ن-س-خ (n-s-kh): de hoofdbetekenis is *kopiëren, overschrijven*, niet "afschaffen." "Welk teken Wij ook overschrijven of doen vergeten, Wij brengen een beter of gelijk." Elke bedeling is een nieuwe overschrijving van de eeuwige boodschap.
 
 ### v.131: De zuivere s-l-m-uitwisseling
 God: "Wijd u toe!" (أَسْلِمْ) — Abraham: "Ik heb mij toegewijd" (أَسْلَمْتُ). Eén woord bevel, één woord antwoord. Abraham onderhandelt niet — het tegendeel van het koe-verhaal (vv.67–71) waar elke opdracht wordt gecompliceerd.
 
 ### v.138: Gods verving (sibghat Allah)
-Wortel ص-ب-غ: verven, onderdompelen. In Syrisch-christelijk gebruik: *doop*. De Voordracht universaliseert het: Gods "verving" is niet een ritueel maar de kleuring der ziel met geloof.
+Stam ص-ب-غ: verven, onderdompelen. In Syrisch-christelijk gebruik: *doop*. De Voordracht universaliseert het: Gods "verving" is niet een ritueel maar de kleuring der ziel met geloof.
 
 ### v.152: Wederzijdse herinnering
-"Herdenkt Mij, Ik zal u herdenken" — wortel ذ-ك-ر (dhikr). Menselijke herinnering aan God wekt goddelijke herinnering aan de mens. De transactie is ogenblikkelijk en wederzijds.
+"Herdenkt Mij, Ik zal u herdenken" — stam ذ-ك-ر (dhikr). Menselijke herinnering aan God wekt goddelijke herinnering aan de mens. De transactie is ogenblikkelijk en wederzijds.
 
 ### v.255: Het Troonvers
-الْحَيُّ الْقَيُّومُ — de Levende, de Zelfbestaande. القيوم van wortel ق-و-م — dezelfde wortel als het Rechte Pad (1:6), de ondersteuners (4:34) en de Opstanding. Alle oprechtheid stamt van de Ene die Zelf bestaat.
+الْحَيُّ الْقَيُّومُ — de Levende, de Zelfbestaande. القيوم van stam ق-و-م — dezelfde stam als het Rechte Pad (1:6), de ondersteuners (4:34) en de Opstanding. Alle oprechtheid stamt van de Ene die Zelf bestaat.
 
 ### v.256: Geen dwang in de godsdienst
-Wortel ك-ر-ه: dwingen, afdwingen. Dezelfde wortel als 24:33 (dwang tot ontucht). De k-r-h-wortel beschermt zowel lichamelijke als geestelijke autonomie.
+Stam ك-ر-ه: dwingen, afdwingen. Dezelfde stam als 24:33 (dwang tot ontucht). De k-r-h-stam beschermt zowel lichamelijke als geestelijke autonomie.
 
 ### v.285: "Wij horen en wij gehoorzamen"
 De oplossing van de gehele boog. Bij v.93 zeiden de Israëlieten: "Wij horen en wij weigeren." Hier, 192 verzen later: "Wij horen en wij gehoorzamen." Van weigering tot toewijding.

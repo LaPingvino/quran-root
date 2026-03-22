@@ -4,15 +4,15 @@
 
 Licht na duisternis, geruststelling na verlatenheid. De persoonlijke geschiedenis des Profeets wordt universeel onderricht: omdat God u beschutting bood, moet gij anderen beschutten.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ض-ح-و (dh-h-w) — "morgenhelderheid"
-**الضحى** — de heldere morgenuren na zonsopgang. De wortel draagt warmte en zichtbaarheid. Gepaard met "de nacht wanneer hij stil is" (v.2) beweegt de soera van licht naar duisternis naar geruststelling: de morgen keert altijd terug.
+### v.1: Stam ض-ح-و (dh-h-w) — "morgenhelderheid"
+**الضحى** — de heldere morgenuren na zonsopgang. De stam draagt warmte en zichtbaarheid. Gepaard met "de nacht wanneer hij stil is" (v.2) beweegt de soera van licht naar duisternis naar geruststelling: de morgen keert altijd terug.
 
-### v.3: Wortel ق-ل-ي (q-l-j) — "verafschuwen"
-"Noch verafschuwt Hij u (قلى)." De ontkenning is nadrukkelijk: God heeft u niet verlaten (ودعك) noch verafschuwt u. Twee wortels, twee ontkenningen — de donkere nacht der ziel des Profeets wordt op het diepste punt beantwoord.
+### v.3: Stam ق-ل-ي (q-l-j) — "verafschuwen"
+"Noch verafschuwt Hij u (قلى)." De ontkenning is nadrukkelijk: God heeft u niet verlaten (ودعك) noch verafschuwt u. Twee stammen, twee ontkenningen — de donkere nacht der ziel des Profeets wordt op het diepste punt beantwoord.
 
-### v.6: Wortel ع-و-ل ('ayn-w-l) — "beschutten"
+### v.6: Stam ع-و-ل ('ayn-w-l) — "beschutten"
 "Vond Hij u niet als wees en bood u beschutting (آوى)?" De levensgeschiedenis des Profeets wordt universeel onderricht: omdat God u beschutte (vv.6–8), moet gij anderen beschutten (vv.9–11). Levensverhaal wordt ethiek.
 
 ## Integratieve verbanden

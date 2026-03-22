@@ -1,0 +1,694 @@
+/* ============================================================
+   The Recitation — Study Translation of the Qur'an
+   Typography for print (WeasyPrint / KDP 6×9)
+   Palette: Deep Blue #1a3a6b · Gold #c4993c · Orange #e8842c
+   Primary font: DejaVu Serif · Fallback: Georgia
+   ============================================================ */
+
+/* ── Page geometry ─────────────────────────────────────────── */
+
+@page {
+    size: 6in 9in;
+    /* Inner margin larger for binding */
+    margin-top:    0.875in;
+    margin-bottom: 0.875in;
+    margin-inside: 1.0in;
+    margin-outside: 0.75in;
+
+    /* Page border: double-rule in deep blue with gold inner line */
+    border: 2.5pt solid #1a3a6b;
+    border-radius: 0;
+    padding: 6pt;
+    outline: 1pt solid #c4993c;
+    outline-offset: -9pt;
+
+    /* Running header — right (recto) */
+    @top-center {
+        content: string(surah-name);
+        font-family: "DejaVu Serif", Georgia, serif;
+        font-size: 8pt;
+        font-style: italic;
+        color: #1a3a6b;
+        letter-spacing: 0.06em;
+        border-bottom: 0.5pt solid #c4993c;
+        padding-bottom: 3pt;
+    }
+
+    @bottom-center {
+        content: counter(page);
+        font-family: "DejaVu Serif", Georgia, serif;
+        font-size: 8.5pt;
+        color: #1a3a6b;
+    }
+}
+
+/* Recto (odd) pages — slightly wider inner margin */
+@page :right {
+    margin-inside: 1.05in;
+    margin-outside: 0.7in;
+}
+
+/* Verso (even) pages */
+@page :left {
+    margin-inside: 1.05in;
+    margin-outside: 0.7in;
+}
+
+/* Suppress running header on chapter-opening pages */
+@page surah-open {
+    @top-center { content: none; }
+    @bottom-center { content: counter(page); }
+}
+
+/* Reset page counter on the first surah */
+@page surah-first {
+    @top-center { content: none; }
+    @bottom-center { content: counter(page); }
+}
+
+/* Front matter: no running header, standard page numbers */
+@page front-matter {
+    @bottom-center {
+        content: counter(page);
+        font-family: "Noto Serif", "DejaVu Serif", Georgia, serif;
+        font-size: 8.5pt;
+        color: #1a3a6b;
+    }
+    @top-center { content: none; }
+}
+
+/* Title page: no headers or page numbers */
+@page title-page {
+    @top-center    { content: none; }
+    @bottom-center { content: none; }
+}
+
+/* ── Reset & base ──────────────────────────────────────────── */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: "Noto Serif", "DejaVu Serif", Georgia, "Times New Roman", serif;
+    font-size: 10.5pt;
+    line-height: 1.62;
+    color: #2a2a2a;
+    background: #ffffff;
+    hyphens: auto;
+    hyphenate-limit-chars: 6 3 3;
+    hyphenate-limit-lines: 2;
+    text-align: justify;
+}
+
+/* ── Orphan / widow control ────────────────────────────────── */
+
+p {
+    widows: 3;
+    orphans: 3;
+}
+
+/* ── Title page ────────────────────────────────────────────── */
+
+.title-page {
+    page: title-page;
+    page-break-after: always;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 7.25in;
+    text-align: center;
+}
+
+.title-page .book-ornament {
+    font-size: 22pt;
+    letter-spacing: 0.25em;
+    color: #e8842c;
+    margin-bottom: 0.6in;
+    display: block;
+}
+
+.title-page .book-title {
+    font-family: "Noto Serif", "DejaVu Serif", Georgia, serif;
+    font-size: 22pt;
+    font-weight: bold;
+    color: #1a3a6b;
+    letter-spacing: 0.04em;
+    line-height: 1.25;
+    text-transform: uppercase;
+    border-top: 2pt solid #c4993c;
+    border-bottom: 2pt solid #c4993c;
+    padding: 14pt 0;
+    margin: 0 0.3in;
+    hyphens: none;
+    word-break: keep-all;
+}
+
+.title-page .book-subtitle {
+    font-family: "DejaVu Serif", Georgia, serif;
+    font-size: 11.5pt;
+    font-style: italic;
+    color: #4a4a4a;
+    margin-top: 16pt;
+    letter-spacing: 0.06em;
+}
+
+.title-page .book-author {
+    font-family: "DejaVu Serif", Georgia, serif;
+    font-size: 11pt;
+    color: #1a3a6b;
+    margin-top: 0.45in;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.title-page .title-footer-ornament {
+    margin-top: 0.55in;
+    font-size: 14pt;
+    color: #e8842c;
+    letter-spacing: 0.3em;
+}
+
+/* ── Front matter (preface, introduction) ──────────────────── */
+
+.front-matter {
+    page-break-before: always;
+}
+
+.front-matter h1 {
+    font-size: 16pt;
+    font-weight: bold;
+    color: #1a3a6b;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 1.1em;
+    border-bottom: 1pt solid #c4993c;
+    padding-bottom: 8pt;
+}
+
+.front-matter p {
+    margin-bottom: 0.85em;
+    text-indent: 1.4em;
+}
+
+.front-matter p:first-of-type {
+    text-indent: 0;
+}
+
+/* ── Surah container ───────────────────────────────────────── */
+
+.surah {
+    page-break-before: always;
+    page: surah-open;
+}
+
+.surah.first-surah {
+    page: surah-open;
+}
+
+/* After the opening, revert to normal page style for continuation */
+.surah-body {
+    page: auto;
+}
+
+/* ── Surah header ──────────────────────────────────────────── */
+
+.surah-header {
+    text-align: center;
+    padding-top: 0.1in;
+    padding-bottom: 0.25in;
+    margin-bottom: 0.3in;
+    page-break-after: avoid;
+}
+
+/* Top ornamental rule: diamond chain */
+.surah-header::before {
+    content: "◆  ✦  ◆  ✦  ◆  ✦  ◆  ✦  ◆";
+    display: block;
+    color: #e8842c;
+    font-size: 9pt;
+    letter-spacing: 0.2em;
+    margin-bottom: 10pt;
+}
+
+/* Bottom ornamental rule */
+.surah-header::after {
+    content: "◆  ✦  ◆  ✦  ◆  ✦  ◆  ✦  ◆";
+    display: block;
+    color: #c4993c;
+    font-size: 9pt;
+    letter-spacing: 0.2em;
+    margin-top: 10pt;
+}
+
+/* Surah number badge */
+.surah-number {
+    display: block;
+    font-size: 8pt;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: #c4993c;
+    margin-bottom: 6pt;
+    string-set: none;
+}
+
+/* Arabic transliteration name (e.g. "Ar-Rahman") — this is the h1 */
+.surah-header h1,
+.surah > h1:first-child {
+    font-family: "Noto Serif", "DejaVu Serif", Georgia, serif;
+    hyphens: none;
+    font-size: 19pt;
+    font-weight: bold;
+    color: #1a3a6b;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    margin: 0;
+    page-break-after: avoid;
+    /* Register for running header */
+    string-set: surah-name content();
+}
+
+/* Translation name (h2, "The Merciful") */
+.surah-header h2,
+.surah > h2:first-of-type {
+    font-family: "DejaVu Serif", Georgia, serif;
+    font-size: 12pt;
+    font-weight: normal;
+    font-style: italic;
+    color: #4a3a1a;
+    letter-spacing: 0.06em;
+    margin-top: 5pt;
+    page-break-after: avoid;
+}
+
+/* ── Basmala ───────────────────────────────────────────────── */
+
+.basmala,
+p.basmala {
+    text-align: center;
+    font-style: italic;
+    font-size: 10.5pt;
+    color: #1a3a6b;
+    margin: 0.22in 0.3in 0.3in;
+    line-height: 1.5;
+    page-break-after: avoid;
+}
+
+/* For surahs where verse 1 IS the basmala (Al-Fatihah style) */
+.surah ol li:first-child.is-basmala {
+    font-style: italic;
+    color: #1a3a6b;
+    text-align: center;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+/* ── Chapter opening ornament ──────────────────────────────── */
+
+.chapter-opening-ornament {
+    display: block;
+    text-align: center;
+    font-size: 13pt;
+    color: #e8842c;
+    letter-spacing: 0.4em;
+    margin-bottom: 0.2in;
+    margin-top: 0.05in;
+    page-break-after: avoid;
+}
+
+/* ── Verse list ────────────────────────────────────────────── */
+
+.surah ol,
+.verse-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.surah ol li,
+.verse {
+    position: relative;
+    padding-left: 2.2em;
+    margin-bottom: 0.38em;
+    line-height: 1.65;
+    widows: 2;
+    orphans: 2;
+}
+
+/* Verse number — superscript-style marginal marker in gold/orange */
+.surah ol li::before {
+    /* WeasyPrint: CSS counters for auto-numbering */
+    counter-increment: verse;
+    content: counter(verse);
+    position: absolute;
+    left: 0;
+    top: 0.15em;
+    font-size: 6.8pt;
+    font-weight: bold;
+    color: #e8842c;
+    line-height: 1;
+    min-width: 1.7em;
+    text-align: right;
+}
+
+.surah ol {
+    counter-reset: verse;
+}
+
+/* Verse number as explicit span (if generated by script) */
+.verse-number {
+    display: inline-block;
+    font-size: 6.8pt;
+    font-weight: bold;
+    color: #e8842c;
+    vertical-align: super;
+    line-height: 1;
+    margin-right: 0.25em;
+    min-width: 1.2em;
+    text-align: right;
+}
+
+/* ── Inline verse markers (alternative: superscript in text) ─ */
+
+sup.vn {
+    font-size: 6.5pt;
+    font-weight: bold;
+    color: #e8842c;
+    vertical-align: super;
+    line-height: 0;
+    margin-right: 0.1em;
+}
+
+/* ── Headings within surah body (section breaks) ──────────── */
+
+.surah h2.section-title {
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: italic;
+    color: #c4993c;
+    text-align: center;
+    margin: 1em 0 0.5em;
+    letter-spacing: 0.08em;
+    page-break-after: avoid;
+}
+
+/* ── Decorative divider between passages ───────────────────── */
+
+.passage-break {
+    display: block;
+    text-align: center;
+    color: #c4993c;
+    font-size: 9pt;
+    letter-spacing: 0.3em;
+    margin: 0.6em 0;
+    page-break-after: avoid;
+}
+
+.passage-break::before {
+    content: "◆  ✦  ◆";
+}
+
+hr.ornament {
+    border: none;
+    text-align: center;
+    color: #c4993c;
+    margin: 0.6em auto;
+    width: 50%;
+    border-top: 0.75pt solid #c4993c;
+}
+
+/* ── Footnotes ─────────────────────────────────────────────── */
+
+/* WeasyPrint footnote mechanism */
+.footnote {
+    float: footnote;
+    font-size: 8pt;
+    line-height: 1.5;
+    color: #3a3a3a;
+    text-align: left;
+    font-style: normal;
+    margin-top: 0.1em;
+}
+
+/* Footnote area separator rule */
+@page {
+    @footnote {
+        border-top: 0.75pt solid #c4993c;
+        padding-top: 5pt;
+        margin-top: 8pt;
+    }
+}
+
+/* Footnote call (superscript reference in text) */
+.footnote-ref,
+a.footnote-ref {
+    font-size: 6.8pt;
+    vertical-align: super;
+    line-height: 0;
+    color: #1a3a6b;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Footnote counter label */
+::footnote-call {
+    content: counter(footnote);
+    font-size: 6.5pt;
+    vertical-align: super;
+    line-height: 0;
+    color: #1a3a6b;
+}
+
+::footnote-marker {
+    content: counter(footnote) ".";
+    font-size: 7pt;
+    color: #1a3a6b;
+    font-weight: bold;
+    padding-right: 0.3em;
+}
+
+/* ── Back matter (appendix) ────────────────────────────────── */
+
+.backmatter {
+    page-break-before: always;
+}
+
+.backmatter h1 {
+    font-size: 16pt;
+    font-weight: bold;
+    color: #1a3a6b;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 1.1em;
+    border-bottom: 1pt solid #c4993c;
+    padding-bottom: 8pt;
+}
+
+.backmatter h2 {
+    font-size: 12pt;
+    font-weight: bold;
+    color: #1a3a6b;
+    margin-top: 1.4em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+}
+
+.backmatter h3 {
+    font-size: 10.5pt;
+    font-style: italic;
+    font-weight: normal;
+    color: #4a3a1a;
+    margin-top: 1em;
+    margin-bottom: 0.35em;
+    page-break-after: avoid;
+}
+
+.backmatter p {
+    margin-bottom: 0.75em;
+    text-indent: 1.4em;
+}
+
+.backmatter p:first-of-type,
+.backmatter h2 + p,
+.backmatter h3 + p {
+    text-indent: 0;
+}
+
+/* Root entry table (root discoveries appendix) */
+.root-entry {
+    margin-bottom: 1.1em;
+    padding-left: 1.2em;
+    border-left: 2.5pt solid #c4993c;
+}
+
+.root-entry .root-arabic {
+    font-size: 10pt;
+    color: #1a3a6b;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+
+.root-entry .root-gloss {
+    font-style: italic;
+    color: #4a3a1a;
+}
+
+/* ── Blockquote / cited passages ───────────────────────────── */
+
+blockquote {
+    margin: 0.8em 1.5em;
+    padding-left: 0.9em;
+    border-left: 2pt solid #c4993c;
+    font-style: italic;
+    color: #3a3a3a;
+    font-size: 10pt;
+    line-height: 1.55;
+}
+
+/* ── General typography helpers ────────────────────────────── */
+
+em {
+    font-style: italic;
+    color: inherit;
+}
+
+strong {
+    font-weight: bold;
+    color: #1a3a6b;
+}
+
+/* Small caps for divine names / Lord / God when desired */
+.divine-name {
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    color: #1a3a6b;
+}
+
+/* ── Table of contents ─────────────────────────────────────── */
+
+.toc {
+    page-break-before: always;
+}
+
+.toc h1 {
+    font-size: 14pt;
+    font-weight: bold;
+    color: #1a3a6b;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 1em;
+    border-bottom: 1pt solid #c4993c;
+    padding-bottom: 7pt;
+}
+
+.toc ol {
+    list-style: none;
+    padding: 0;
+}
+
+.toc ol li {
+    font-size: 9.5pt;
+    line-height: 1.85;
+    color: #2a2a2a;
+}
+
+.toc a {
+    color: #2a2a2a;
+    text-decoration: none;
+}
+
+.toc a::after {
+    content: leader(".") " " target-counter(attr(href), page);
+    color: #1a3a6b;
+    font-size: 8.5pt;
+}
+
+/* ── Decorative page borders (WeasyPrint box-shadow echo) ──── */
+/*
+   WeasyPrint does not support CSS border-image or SVG borders,
+   but we can layer box-shadow lines on sectioned divs.
+   The @page border above handles the page-level frame.
+   These classes add inner ornament bands where needed.
+*/
+
+.ornament-band {
+    display: block;
+    width: 100%;
+    height: 0;
+    border-top: 3pt solid #1a3a6b;
+    box-shadow:
+        0 3pt 0 0 #ffffff,
+        0 5pt 0 0 #c4993c,
+        0 7pt 0 0 #ffffff,
+        0 9pt 0 0 #1a3a6b;
+    margin-bottom: 18pt;
+}
+
+.ornament-band-thin {
+    display: block;
+    width: 60%;
+    margin: 0.5em auto;
+    height: 0;
+    border-top: 1pt solid #c4993c;
+    box-shadow:
+        0 2pt 0 0 #ffffff,
+        0 4pt 0 0 #e8842c;
+}
+
+/* ── Colophon ──────────────────────────────────────────────── */
+
+.colophon {
+    page-break-before: always;
+    text-align: center;
+    font-size: 8.5pt;
+    color: #4a4a4a;
+    padding-top: 2in;
+    line-height: 2;
+}
+
+.colophon .colophon-ornament {
+    font-size: 18pt;
+    color: #e8842c;
+    letter-spacing: 0.3em;
+    display: block;
+    margin-bottom: 0.4in;
+}
+
+/* ── Utility: avoid breaks inside key elements ─────────────── */
+
+.surah-header,
+.basmala,
+.chapter-opening-ornament {
+    page-break-inside: avoid;
+}
+
+/* Keep a verse together if it's short enough */
+.verse-keep {
+    page-break-inside: avoid;
+}
+
+/* Force a page break before an element */
+.page-break-before {
+    page-break-before: always;
+}
+
+/* ── Print media reset ─────────────────────────────────────── */
+
+@media print {
+    body {
+        background: white;
+    }
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+}

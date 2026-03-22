@@ -4,16 +4,16 @@
 
 Het bepalende zahir/batin-vers (v.3) en de verrassing dat ijzer "nedergezonden" is (v.25) — hetzelfde werkwoord als voor de Schrift. De hedendaagse astrofysica bevestigt: ijzer wordt gesmeed in sternenkernen en supernova's.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.3: Wortel ظ-ه-ر / ب-ط-ن — "de Openbare en de Verborgene"
-"Hij is de Eerste en de Laatste, de Openbare en de Verborgene." De twee polen der koranische uitlegkunde. Elk vers heeft een zahir en een batin — en hier claimt God beide dimensies als Zijn eigen aard. Dit vers is het theologische mandaat voor de wortelherwinning.
+### v.3: Stam ظ-ه-ر / ب-ط-ن — "de Openbare en de Verborgene"
+"Hij is de Eerste en de Laatste, de Openbare en de Verborgene." De twee polen der koranische uitlegkunde. Elk vers heeft een zahir en een batin — en hier claimt God beide dimensies als Zijn eigen aard. Dit vers is het theologische mandaat voor de stamherwinning.
 
-### v.25: Wortel ن-ز-ل (n-z-l) — "ijzer nedergezonden"
-**أَنزَلْنَا الْحَدِيد** — dezelfde wortel als voor het nederzenden van de Schrift. IJzer wordt niet slechts gedolven maar kosmisch geleverd. De taal der Voordracht is nauwkeurig waar zij metaforisch lijkt.
+### v.25: Stam ن-ز-ل (n-z-l) — "ijzer nedergezonden"
+**أَنزَلْنَا الْحَدِيد** — dezelfde stam als voor het nederzenden van de Schrift. IJzer wordt niet slechts gedolven maar kosmisch geleverd. De taal der Voordracht is nauwkeurig waar zij metaforisch lijkt.
 
-### v.27: Wortel ر-ه-ب (r-h-b) — "kloosterleven"
-"Kloosterleven verzonnen zij — Wij schreven het hun niet voor." De wortel betekent vrezen, in ontzag zijn. Het vers veroordeelt niet de impuls maar het verzuim haar naar behoren na te leven.
+### v.27: Stam ر-ه-ب (r-h-b) — "kloosterleven"
+"Kloosterleven verzonnen zij — Wij schreven het hun niet voor." De stam betekent vrezen, in ontzag zijn. Het vers veroordeelt niet de impuls maar het verzuim haar naar behoren na te leven.
 
 ## Integratieve verbanden
 

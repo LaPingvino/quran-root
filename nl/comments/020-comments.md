@@ -14,7 +14,7 @@ In v.99: "Wij hebben u uit Onze tegenwoordigheid een Gedachtenis gegeven." En in
 
 ## v.12: Doe uw sandalen uit
 
-"Doe dus uw sandalen uit; voorwaar, gij zijt in het heilige dal van Toewa." Wortel خ-ل-ع: uittrekken, ontbloten. Het gebod om de sandalen af te leggen markeert de drempel tussen het wereldse en het heilige. De diepere betekenis — het afleggen van bedekkingen — resoneert met het verhullingsthema (k-f-r): om God te naderen, moet men onbedekt zijn.
+"Doe dus uw sandalen uit; voorwaar, gij zijt in het heilige dal van Toewa." Stam خ-ل-ع: uittrekken, ontbloten. Het gebod om de sandalen af te leggen markeert de drempel tussen het wereldse en het heilige. De diepere betekenis — het afleggen van bedekkingen — resoneert met het verhullingsthema (k-f-r): om God te naderen, moet men onbedekt zijn.
 
 ## v.39: Liefde van God
 
@@ -22,7 +22,7 @@ In v.99: "Wij hebben u uit Onze tegenwoordigheid een Gedachtenis gegeven." En in
 
 ## v.114: Vermeerder mij in kennis
 
-"Mijn Heer, vermeerder mij in kennis" (رب زدني علمًا) — het enige gebed in de Voordracht waarin de Profeet wordt opgedragen om *meer* van iets te vragen. Niet meer rijkdom, macht of volgelingen — kennis. De wortel ع-ل-م doordrenkt de Voordracht (meer dan 800 maal), maar dit vers maakt het streven naar kennis tot een goddelijk bevolen gebed.
+"Mijn Heer, vermeerder mij in kennis" (رب زدني علمًا) — het enige gebed in de Voordracht waarin de Profeet wordt opgedragen om *meer* van iets te vragen. Niet meer rijkdom, macht of volgelingen — kennis. De stam ع-ل-م doordrenkt de Voordracht (meer dan 800 maal), maar dit vers maakt het streven naar kennis tot een goddelijk bevolen gebed.
 
 ## vv.115–123: Adam en de Tuin
 

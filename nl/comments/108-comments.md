@@ -4,15 +4,15 @@
 
 Drie verzen: overvloed, gebed-en-offer, en de afsnijding van de tegenstander. Wat God geeft is niet slechts "veel" maar overvloeiend. Geestelijke nakomelingschap overleeft biologische afstamming.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ك-ث-ر (k-th-r) — "overvloed"
-**الكوثر** — de intensieve vorm: overweldigende overvloed. Traditioneel geïdentificeerd als een rivier in het paradijs, doch de wortel betekent eenvoudig overvloedig goed — elke soort van zegening.
+### v.1: Stam ك-ث-ر (k-th-r) — "overvloed"
+**الكوثر** — de intensieve vorm: overweldigende overvloed. Traditioneel geïdentificeerd als een rivier in het paradijs, doch de stam betekent eenvoudig overvloedig goed — elke soort van zegening.
 
-### v.2: Wortel ن-ح-ر (n-h-r) — "offeren"
+### v.2: Stam ن-ح-ر (n-h-r) — "offeren"
 "Bid dan tot uw Heer en offer (انحر)." Gebed en offer als gepaarde antwoorden op overvloed — dankbaarheid uitgedrukt door aanbidding en geven.
 
-### v.3: Wortel ب-ت-ر (b-t-r) — "afsnijden"
+### v.3: Stam ب-ت-ر (b-t-r) — "afsnijden"
 "Uw belager — hij is de afgesnedene (الأبتر)." Wie de Profeet aanvalt is zelf afgesneden. Geestelijke nakomelingschap overleeft biologische afstamming.
 
 ## Integratieve verbanden

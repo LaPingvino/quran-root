@@ -10,11 +10,11 @@ Deze soera bevat de dichtste profetische catalogus van de gehele Voordracht: Moz
 In v.30: "Hebben zij die verhullen niet gezien dat de hemelen en de aarde een verbonden geheel waren?" Het verhullen sluit de ogen voor het kosmische bewijs. In v.36 nemen de verhullenden de Profeet "slechts in bespotting" — de bespotting is een vorm van bedekking.
 
 ### "Herinnering" voor ذكر (dhikr)
-De wortel ذ-ك-ر verschijnt herhaaldelijk (vv.2, 7, 10, 24): de Voordracht is een ذِكْر — een herinnering aan wat de mensheid reeds weet (vgl. 7:172, het oerverbond). Openbaring brengt geen nieuwe informatie maar wekt slapende kennis.
+De stam ذ-ك-ر verschijnt herhaaldelijk (vv.2, 7, 10, 24): de Voordracht is een ذِكْر — een herinnering aan wat de mensheid reeds weet (vgl. 7:172, het oerverbond). Openbaring brengt geen nieuwe informatie maar wekt slapende kennis.
 
 ## v.30: Het verbonden geheel
 
-"De hemelen en de aarde waren een verbonden geheel, en Wij hen toen scheidden. En Wij maakten uit water elk levend ding." Wortel رَتْق (sluiten, verzegelen) en فَتْق (openscheuren) beschrijven een oertoestand van eenheid die uiteenbarst — treffend parallel met de oerknal. Het vers vervolgt met de wateroorsprong van alle leven.
+"De hemelen en de aarde waren een verbonden geheel, en Wij hen toen scheidden. En Wij maakten uit water elk levend ding." Stam رَتْق (sluiten, verzegelen) en فَتْق (openscheuren) beschrijven een oertoestand van eenheid die uiteenbarst — treffend parallel met de oerknal. Het vers vervolgt met de wateroorsprong van alle leven.
 
 ## v.92: Eén gemeenschap
 
@@ -30,7 +30,7 @@ De wortel ذ-ك-ر verschijnt herhaaldelijk (vv.2, 7, 10, 24): de Voordracht is 
 
 ## v.107: Barmhartigheid voor de werelden
 
-"Wij hebben u niet gezonden dan als een barmhartigheid voor de werelden." Wortel ر-ح-م (barmhartigheid/baarmoeder) gecombineerd met عالمين (werelden, meervoud) maakt deze barmhartigheid universeel. Het meervoud "werelden" is hetzelfde als in 1:2 (Heer der werelden) — de barmhartigheid van de Profeet weerspiegelt het Heerschap Gods.
+"Wij hebben u niet gezonden dan als een barmhartigheid voor de werelden." Stam ر-ح-م (barmhartigheid/baarmoeder) gecombineerd met عالمين (werelden, meervoud) maakt deze barmhartigheid universeel. Het meervoud "werelden" is hetzelfde als in 1:2 (Heer der werelden) — de barmhartigheid van de Profeet weerspiegelt het Heerschap Gods.
 
 ## Integratieve verbanden
 

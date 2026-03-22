@@ -4,15 +4,15 @@
 
 De Furqan is net in boek mar in fermogen — it ûnderskiedingsfermogen tusken wier en falsk. De surah slút mei in portret fan "de tsjinstfeinten fan de Albarmhertige" (ff.63-76), definiearre troch gedrach, net troch leare.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel f-r-q — "skiede, ûnderskiede" (f.1)
-"It Ûnderskied (al-furqan)." De woartel betsjut útinoarspjalte, wier fan falsk ûnderskiede. It Ûnderskied is net inkeld in boek mar in fermogen dat God de fromme jout (8:29). Iepenbaring biedt it ynstrumint fan ûnderskieding, net inkeld ynformaasje.
+### Stam f-r-q — "skiede, ûnderskiede" (f.1)
+"It Ûnderskied (al-furqan)." De stam betsjut útinoarspjalte, wier fan falsk ûnderskiede. It Ûnderskied is net inkeld in boek mar in fermogen dat God de fromme jout (8:29). Iepenbaring biedt it ynstrumint fan ûnderskieding, net inkeld ynformaasje.
 
-### Woartel b-d-l — "ferwikselje, transformearje" (f.70)
-"God sil har kweade dieden ferwikselje (yubaddilu) yn goede dieden." De woartel betsjut ferfange, it ien foar it oar wikselje. Dit is gjin útwisking mar transformaasje — de substânsje fan sûnde sels wurdt omfoarme yn deugd. Dit is alkemy, gjin boekhâlding.
+### Stam b-d-l — "ferwikselje, transformearje" (f.70)
+"God sil har kweade dieden ferwikselje (yubaddilu) yn goede dieden." De stam betsjut ferfange, it ien foar it oar wikselje. Dit is gjin útwisking mar transformaasje — de substânsje fan sûnde sels wurdt omfoarme yn deugd. Dit is alkemy, gjin boekhâlding.
 
-### Woartel '-b-d — "tsjinje" (f.63)
+### Stam '-b-d — "tsjinje" (f.63)
 "De tsjinstfeinten ('ibad) fan de Albarmhertige." De slotportret (ff.63-76) definiearret dizze tsjinstfeinten troch gedrach: dimmenens, geduld, maatregel, wierheftigens. Har identiteit is relasjoneel — tsjinstfeinten FAN de Albarmhertige, definiearre troch Waans barmhertichheid sy spegele.
 
 ## Yntegrative Ferbiningen

@@ -4,15 +4,15 @@
 
 De Dag des Oordeels is zelf een bedekking — zij overweldigt alle andere werkelijkheden. De ironie: wie waarheid verhulde wordt nu door de Waarheid verhuld.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel غ-ش-ي (gh-sj-j) — "overweldigen, bedekken"
-**الغاشية** — dat wat bedekt of overweldigt. Een bedekkingswortel naast ك-ف-ر en ر-ي-ن. De Dag des Oordeels bedekt alles — wie waarheid bedekte wordt nu door Waarheid bedekt.
+### v.1: Stam غ-ش-ي (gh-sj-j) — "overweldigen, bedekken"
+**الغاشية** — dat wat bedekt of overweldigt. Een bedekkingsstam naast ك-ف-ر en ر-ي-ن. De Dag des Oordeels bedekt alles — wie waarheid bedekte wordt nu door Waarheid bedekt.
 
-### v.22: Wortel س-ي-ط-ر (s-j-th-r) — "overheersen"
+### v.22: Stam س-ي-ط-ر (s-j-th-r) — "overheersen"
 "Gij zijt geen overheerser (بمسيطر) over hen." De Profeet wordt uitdrukkelijk dwingend gezag ontzegd. Zijn rol is slechts herinnering (v.21). Een grondleggend vers voor godsdienstvrijheid in de koranische ethiek.
 
-### v.12: Wortel ع-ي-ن ('ayn-j-n) — "bron EN oog"
+### v.12: Stam ع-ي-ن ('ayn-j-n) — "bron EN oog"
 "Een vloeiende bron" — عين draagt de dubbele betekenis: de bron in de verheven Tuin is ook een oog — een bron van inzicht die vloeit.
 
 ## Integratieve verbanden

@@ -4,13 +4,13 @@
 
 Fjouwer parabels dy't elk it zahir/batin-prinsipe (skynber/ferburgen) dramatisearje: de Sliepers fan de Grot, de Twa Tunen, Khidr en Mozes, en Dhul-Qarnayn. Wat der dea útsjocht is sliep; wat der ferneatiging útsjocht is barmhertichheid; wat der ferlies útsjocht is bewarring.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel kh-d-r — "farsk, libben" — Khidr (ff.60-82)
-De woartel betsjut farsk, libbend, fochtig, nij groeid. Al-Khidr is "de Farskene" — in wêzen fan ferburgen, libjende wiisheid dy't net útdrûget. Deselde woartel as yn 55:76 dêr't de kessens fan it Ferburgen "farsk" (khudr) binne. Khidr belichemet de batin — de ynderlike betsjutting dy't Mozes (de wet, it skynbere) net sûnder geduld begripe kin.
+### Stam kh-d-r — "farsk, libben" — Khidr (ff.60-82)
+De stam betsjut farsk, libbend, fochtig, nij groeid. Al-Khidr is "de Farskene" — in wêzen fan ferburgen, libjende wiisheid dy't net útdrûget. Deselde stam as yn 55:76 dêr't de kessens fan it Ferburgen "farsk" (khudr) binne. Khidr belichemet de batin — de ynderlike betsjutting dy't Mozes (de wet, it skynbere) net sûnder geduld begripe kin.
 
-### Woartel j-n-n — "ferbergje" (f.50)
-Iblis "wie fan de ferburgenen (djinn)." De woartel j-n-n regearret sawol de djinn as de tunen (jannat). De Grot sels funksjonearret as in janna — in ferburgen plak fan beskerming. De jongelingen geane de ferberging yn (de Grot) en komme de iepenbaring yn (har wekking).
+### Stam j-n-n — "ferbergje" (f.50)
+Iblis "wie fan de ferburgenen (djinn)." De stam j-n-n regearret sawol de djinn as de tunen (jannat). De Grot sels funksjonearret as in janna — in ferburgen plak fan beskerming. De jongelingen geane de ferberging yn (de Grot) en komme de iepenbaring yn (har wekking).
 
 ### De trije beproevingen fan Khidr
 1. It skip: skynbere skea = ferburgen bewarring

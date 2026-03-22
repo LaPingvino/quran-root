@@ -2,17 +2,17 @@
 
 ## Algemene opmerkingen
 
-De "overwinning" is wezenlijk een "opening" — het Verdrag van Hoedaibijah leek een tegenslag maar was de ware opening. De wortel herdefinieert overwinning als wat God opent, niet als wat de mens verovert.
+De "overwinning" is wezenlijk een "opening" — het Verdrag van Hoedaibijah leek een tegenslag maar was de ware opening. De stam herdefinieert overwinning als wat God opent, niet als wat de mens verovert.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ف-ت-ح (f-t-h) — "openen"
-**فَتَحْنَا** — de wortel betekent openen, inwijden, ontsluiten. De soera verwijst naar een "opening" die geen militaire verovering was maar het ontsluiten van een nieuwe geestelijke toestand.
+### v.1: Stam ف-ت-ح (f-t-h) — "openen"
+**فَتَحْنَا** — de stam betekent openen, inwijden, ontsluiten. De soera verwijst naar een "opening" die geen militaire verovering was maar het ontsluiten van een nieuwe geestelijke toestand.
 
-### vv.4, 18, 26: Wortel س-ك-ن (s-k-n) — "kalmte, stilte"
+### vv.4, 18, 26: Stam س-ك-ن (s-k-n) — "kalmte, stilte"
 God zendt driemaal "de kalmte (السَّكِينَة)" neder: bij het begin (v.4), bij de eedaflegging (v.18), en tegen de ijverzucht (v.26). Elke nederdaling van stilte beantwoordt een moment van onrust.
 
-### v.10: Wortel ب-ي-ع (b-j-ayn) — "eed afleggen"
+### v.10: Stam ب-ي-ع (b-j-ayn) — "eed afleggen"
 "Degenen die u de eed afleggen (يُبَايِعُونَ), leggen slechts de eed af aan God." De bij'ah is een transactie: de gelovige verkoopt zijn wil aan God via de Boodschapper. De hand Gods is "boven hun handen."
 
 ## Integratieve verbanden

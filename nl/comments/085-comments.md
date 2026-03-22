@@ -4,13 +4,13 @@
 
 De hemel der sterrenbeelden toont zijn tekenen openlijk, in contrast met degenen die op aarde de tekenen proberen te onderdrukken. Het Volk der Geul verbrandt gelovigen levend — de uiterste vervolging. Toch biedt v.10 zelfs hen berouw aan.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.14: Wortel و-د-د (w-d-d) — "liefhebben"
+### v.14: Stam و-د-د (w-d-d) — "liefhebben"
 "Hij is de Vergevende, de Liefdevolle (الودود)." Direct na "de greep uws Heren is streng" (v.12) — goddelijke liefde en goddelijke strengheid zijn geen tegenspraken maar twee gezichten van dezelfde betrokkenheid.
 
-### v.10: Wortel ف-ت-ن (f-t-n) — "vervolgen, beproeven"
-"Degenen die de gelovige mannen en vrouwen vervolgden (فتنوا)" — dezelfde wortel als فتنة (fitna, beproeving/vervolging). "Vervolgens geen berouw hadden" houdt in dat zij berouw hadden kunnen hebben.
+### v.10: Stam ف-ت-ن (f-t-n) — "vervolgen, beproeven"
+"Degenen die de gelovige mannen en vrouwen vervolgden (فتنوا)" — dezelfde stam als فتنة (fitna, beproeving/vervolging). "Vervolgens geen berouw hadden" houdt in dat zij berouw hadden kunnen hebben.
 
 ### vv.21–22: "een glorierijke Voordracht in een Bewaard Schrijfblad (لوح محفوظ)"
 De Voordracht bestaat in een bewaarde, transcendente bron — het Bewaarde Schrijfblad en het Verborgen Boek (56:78) wijzen naar dezelfde werkelijkheid.

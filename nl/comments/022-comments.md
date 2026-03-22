@@ -13,7 +13,7 @@ In v.19: "zij die verhullen, klederen van vuur zijn voor hen uitgesneden." De be
 In v.78: "Hij noemde u Toegewijden voorheen en hierin" — en het is Abraham die deze naam geeft. De identiteit "moslim" begint niet bij Muhammad maar bij Abraham. "Toegewijden" vangt het actieve karakter: niet een passief label maar een levende toewijding.
 
 ### "Geprezene" voor حميد (hamied)
-In v.24: "zij zijn geleid tot het pad van den Geprezene." De wortel ح-م-د (prijzen) verbindt dit met de naam Ahmad/Muhammad — het pad van de Geprezene is het pad van de Lofwaardige.
+In v.24: "zij zijn geleid tot het pad van den Geprezene." De stam ح-م-د (prijzen) verbindt dit met de naam Ahmad/Muhammad — het pad van de Geprezene is het pad van de Lofwaardige.
 
 ## v.17: Zes religieuze gemeenschappen
 
@@ -33,7 +33,7 @@ In v.24: "zij zijn geleid tot het pad van den Geprezene." De wortel ح-م-د (pr
 
 ## v.78: Het geloof van Abraham
 
-"Het geloof van uw vader Abraham. Hij noemde u Toegewijden." Wortel ح-ن-ف: neigen, afwenden van afgodendienst. Een hanief is iemand die zich afwendt van veelgodendom naar de Ene God. Abraham is het oerbeeld — en de naamgeving "Toegewijden" is van hem.
+"Het geloof van uw vader Abraham. Hij noemde u Toegewijden." Stam ح-ن-ف: neigen, afwenden van afgodendienst. Een hanief is iemand die zich afwendt van veelgodendom naar de Ene God. Abraham is het oerbeeld — en de naamgeving "Toegewijden" is van hem.
 
 ## Integratieve verbanden
 

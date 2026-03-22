@@ -4,16 +4,16 @@
 
 De Grutte Opstanning — as alles wat horizontaal wie (dea, begroeven, ferburgen) fertikaal wurdt (risen, manifearre, ferantwurdlik). De Dei dat de batin bliuwend zahir wurdt.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel q-w-m — "rise, stean, opstanning"
-Deselde woartel as maqam (stee/Manifestaasje, 55:46), qawwamun (ophâlders, 4:34), en al-mustaqim (it Rjochte, 1:6). De Opstanning is it Grutte Opstean.
+### Stam q-w-m — "rise, stean, opstanning"
+Deselde stam as maqam (stee/Manifestaasje, 55:46), qawwamun (ophâlders, 4:34), en al-mustaqim (it Rjochte, 1:6). De Opstanning is it Grutte Opstean.
 
-### Woartel l-w-m — "skuldigje, ferwiitsje" (f.2)
+### Stam l-w-m — "skuldigje, ferwiitsje" (f.2)
 "Ik swir by de sels-ferwitsende siel (an-nafs al-lawwama)." God swart by it gewisse njonken de Opstanning. It sels-ferwitsende siel is de batin fan oardiel; de Opstanning is syn zahir. Gewisse is ynderlik makke opstanning.
 
-### Woartel q-r-' — "foardrage" (ff.16-19)
-"As Wy it foardrage, folgje dan syn foardracht. Dan wiswier, op Us is syn útliz (bayanahu)." De bayan (útliz) is itselde wurd as "de Utdrukking" yn 55:4. Gods útliz en de minsklike Utdrukking diele deselde woartel.
+### Stam q-r-' — "foardrage" (ff.16-19)
+"As Wy it foardrage, folgje dan syn foardracht. Dan wiswier, op Us is syn útliz (bayanahu)." De bayan (útliz) is itselde wurd as "de Utdrukking" yn 55:4. Gods útliz en de minsklike Utdrukking diele deselde stam.
 
 ## Yntegrative Ferbiningen
 

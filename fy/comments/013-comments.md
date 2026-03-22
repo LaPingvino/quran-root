@@ -4,13 +4,13 @@
 
 De Tonger priizget God — de himel trillet foar syn Hear. De surah neamt himsels nei dizze kosmyske oanbidding.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel r-'-d — "tongerje"
-f.13: "De Tonger priizget Syn lof." De woartel betsjut trilje, tongerje, yn ûntsach wêze. Tonger is net inkeld in waarskynsels mar in died fan ferhearliking.
+### Stam r-'-d — "tongerje"
+f.13: "De Tonger priizget Syn lof." De stam betsjut trilje, tongerje, yn ûntsach wêze. Tonger is net inkeld in waarskynsels mar in died fan ferhearliking.
 
-### Woartel z-b-d — "skom, ôffal"
-f.17: de oerstreamingsparabel wêr't skom foarbygiet mar wat de minsken profitearret bliuwt. Falskens is it skom dat fuortbaarne; wierheid is it metaal dat oerbliuwt. Dizze lykenis jildt foar iepenbaring sels: ynterpretaasjekt skom ryze en giet foarby, de woartelbestjutting bliuwt.
+### Stam z-b-d — "skom, ôffal"
+f.17: de oerstreamingsparabel wêr't skom foarbygiet mar wat de minsken profitearret bliuwt. Falskens is it skom dat fuortbaarne; wierheid is it metaal dat oerbliuwt. Dizze lykenis jildt foar iepenbaring sels: ynterpretaasjekt skom ryze en giet foarby, de stambestjutting bliuwt.
 
 ### f.11: "God feroaret de tastân fan in folk net oant se feroarje wat yn harren sielen is"
 Ynderlike transformaasje liedt ta uterlike manifestaasje — it zahir/batin-prinsipe tapast op sosjale feroaring.

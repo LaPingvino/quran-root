@@ -4,15 +4,15 @@
 
 De directe weerlegging van Farao's aanspraak in 79:24 ("ik ben uw heer, de allerhoogste"). De soera herstelt de titel bij God. Zij verwijst uitdrukkelijk naar de geschriften van Abraham en Mozes.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ع-ل-و ('ayn-l-w) — "hoog zijn, verheffen"
+### v.1: Stam ع-ل-و ('ayn-l-w) — "hoog zijn, verheffen"
 **الأعلى** — de overtreffende trap: niet slechts hoog maar de allerhoogste. Het bevel "verheerlijk de naam uws Heren, de Allerhoogste" is de directe weerlegging van elke valse aanspraak op opperheerschappij.
 
-### v.7: Wortel ظ-ه-ر / خ-ف-ي — "het openbare en het verborgene"
+### v.7: Stam ظ-ه-ر / خ-ف-ي — "het openbare en het verborgene"
 "Hij kent het openbare en het verborgene" — het zahir/batin-beginsel. Gods kennis omvat beide dimensies.
 
-### vv.18–19: Wortel ص-ح-ف (s-h-f) — "rollen, geschriften"
+### vv.18–19: Stam ص-ح-ف (s-h-f) — "rollen, geschriften"
 "De vroegere Geschriften, de Geschriften van Abraham en Mozes." De soera claimt uitdrukkelijk dat haar inhoud reeds in eerdere openbaringen aanwezig was — voortschrijdende openbaring bevestigd binnen de tekst zelf.
 
 ## Integratieve verbanden

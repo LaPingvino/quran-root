@@ -4,16 +4,16 @@
 
 Luqman syn wiisheid as in legaat fan heit ta soan — en fan God ta Luqman, fan de surah ta de lêzer. De struktuer spegelet de ynhâld: wiisheid wurdt oerdroegen.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel h-k-m — "wiisheid, oardiel" (ff.2, 12)
-"It Wize Boek" (al-kitab al-hakim); "Wy joegen Luqman wiisheid (al-hikma)." De woartel betsjut oardielje, wiis wêze, ynhâlde. It Boek is hakim (wiis) — net inkeld wiisheid befetsjend mar sels oardiel útoefenjend. Luqman ûntfangt deselde kwaliteit. Wiisheid is de dielde substânsje tusken skrift en de wize minske.
+### Stam h-k-m — "wiisheid, oardiel" (ff.2, 12)
+"It Wize Boek" (al-kitab al-hakim); "Wy joegen Luqman wiisheid (al-hikma)." De stam betsjut oardielje, wiis wêze, ynhâlde. It Boek is hakim (wiis) — net inkeld wiisheid befetsjend mar sels oardiel útoefenjend. Luqman ûntfangt deselde kwaliteit. Wiisheid is de dielde substânsje tusken skrift en de wize minske.
 
-### Woartel sh-k-r / k-f-r — "tankberens / ferberging" (f.12)
+### Stam sh-k-r / k-f-r — "tankberens / ferberging" (f.12)
 "Jou tanken oan God. En wa't tanket, tanket foar syn eigen siel; en wa't ûntankber is (kafara)..." De sh-k-r / k-f-r binêr ferskynt eksplisyt: tankberens tsjinoer ferberging. Luqman syn earste les is dat tankberens de jouwer profitearret, net God.
 
-### Woartel w-s-y — "gebiede, neilitje" (f.14)
-"Wy gebieden (wassayna) de minske oangeande syn âlden." De woartel ramt de âlder-bern bân as in godlik betrouwen. Luqman syn wiisheid is sels in wasiyya — in legaat fan heit ta soan.
+### Stam w-s-y — "gebiede, neilitje" (f.14)
+"Wy gebieden (wassayna) de minske oangeande syn âlden." De stam ramt de âlder-bern bân as in godlik betrouwen. Luqman syn wiisheid is sels in wasiyya — in legaat fan heit ta soan.
 
 ## Yntegrative Ferbiningen
 

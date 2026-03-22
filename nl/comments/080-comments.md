@@ -4,15 +4,15 @@
 
 God corrigeert Zijn eigen Profeet om een gelaatsuitdrukking — de maatstaf der verantwoordelijkheid strekt zich uit tot onwillekeurige gebaren wanneer een oprechte zoeker wordt afgewezen.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ع-ب-س ('ayn-b-s) — "fronsen"
+### v.1: Stam ع-ب-س ('ayn-b-s) — "fronsen"
 Een zichtbare samentrekking van het gelaat. De soera opent met God die Zijn Profeet corrigeert om een gezichtsuitdrukking — het strengste bewijs dat goddelijke verantwoording geen rang ontziet.
 
-### v.3: Wortel ز-ك-و (z-k-w) — "zuiveren"
-De blinde man zou zich "zuiveren" (يزكى) door de boodschap. De zuiveringswortel verbindt het medium (gezuiverde rollen, v.14) met de zoeker — zuiverheid ontmoet zuiverheid.
+### v.3: Stam ز-ك-و (z-k-w) — "zuiveren"
+De blinde man zou zich "zuiveren" (يزكى) door de boodschap. De zuiveringsstam verbindt het medium (gezuiverde rollen, v.14) met de zoeker — zuiverheid ontmoet zuiverheid.
 
-### v.42: Wortel ك-ف-ر (k-f-r) — "verhullen"
+### v.42: Stam ك-ف-ر (k-f-r) — "verhullen"
 "Dezen zijn degenen die verhuld hebben, de goddelozen." Gezichten bedekt met duisternis (v.41) zijn degenen die verhullen — de uiterlijke duisternis weerspiegelt de innerlijke daad van verhulling.
 
 ## Integratieve verbanden

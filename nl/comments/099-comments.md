@@ -4,15 +4,15 @@
 
 De aarde beeft met HAAR beving, brengt HAAR lasten voort, vertelt HAAR tijdingen. De aarde is een actieve getuige, niet een passief toneel. Zij ontvangt goddelijke ingeving (wahi) gelijk profeten.
 
-## Wortelanalyse
+## Stamanalyse
 
-### vv.1–2: Wortel ز-ل-ز-ل (z-l-z-l) — "beven, schudden"
+### vv.1–2: Stam ز-ل-ز-ل (z-l-z-l) — "beven, schudden"
 **زلزلت... زلزالها** — de aarde wordt geschud met HAAR schudding. Het bezittelijk voornaamwoord "haar" is de sleutel: de aardbeving is niet opgelegd maar behoort de aarde toe. Zij beeft met haar eigen beving, brengt haar eigen lasten voort (v.2), vertelt haar eigen tijdingen (v.4).
 
-### v.5: Wortel و-ح-ي (w-h-j) — "ingeven"
+### v.5: Stam و-ح-ي (w-h-j) — "ingeven"
 "Uw Heer heeft haar ingegeven (أوحى)." Hetzelfde woord als voor Gods ingeving aan profeten. De aarde ontvangt wahi — goddelijke ingeving. De grond onder uw voeten is een ontvanger van openbaring, bevolen te getuigen.
 
-### vv.7–8: Wortel ذ-ر-ر (dh-r-r) — "atoom, klein deeltje"
+### vv.7–8: Stam ذ-ر-ر (dh-r-r) — "atoom, klein deeltje"
 "Een atoomgewicht (ذرة)." Niets ontsnapt aan de afrekening — geen atoom van goed, geen atoom van kwaad. De kracht der soera ligt in deze totaliteit.
 
 ## Integratieve verbanden

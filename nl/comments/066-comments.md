@@ -4,16 +4,16 @@
 
 God corrigeert Zijn eigen Profeet: "waarom verbiedt gij wat God wettig gemaakt heeft?" De vier vrouwen-typologie (vv.10–12) is het meest geconcentreerde vrouwelijke typebeeld der Voordracht.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ح-ر-م (h-r-m) — "verbieden, heilig maken"
-De wortel betekent zowel verbieden als heiligen (de Haram in Mekka is het heilige district). Het heilige en het verbodene delen een wortel omdat beide zijn afgezonderd van het gewone. De dwaling is het afzonderen van wat God niet afgezonderd heeft.
+### v.1: Stam ح-ر-م (h-r-m) — "verbieden, heilig maken"
+De stam betekent zowel verbieden als heiligen (de Haram in Mekka is het heilige district). Het heilige en het verbodene delen een stam omdat beide zijn afgezonderd van het gewone. De dwaling is het afzonderen van wat God niet afgezonderd heeft.
 
-### vv.10–12: Wortel ض-ر-ب (d-r-b) — "een gelijkenis uiteenzetten"
+### vv.10–12: Stam ض-ر-ب (d-r-b) — "een gelijkenis uiteenzetten"
 God zet gelijkenissen uiteen met vier vrouwen. Twee rechtvaardige vrouwen onder goddeloze mannen (Farao's vrouw, Maria) en twee goddeloze vrouwen onder rechtvaardige mannen (Noachs vrouw, Lots vrouw). Nabijheid tot een profeet redt niet; afstand van een profeet veroordeelt niet. Geestelijke rang is individueel.
 
-### v.8: Wortel ت-و-ب (t-w-b) — "berouw, terugkeer"
-"Keert tot God in oprecht berouw (تَوْبَةً نَصُوحًا)." Oprecht berouw is een gezuiverde terugkeer — niet slechts ophouden met zondigen maar terugkeren tot de oorsprong. De wortel ت-و-ب verbindt met ح-و-ر (terugkeren) — berouw en toewijding delen het begrip van terugkeer tot God.
+### v.8: Stam ت-و-ب (t-w-b) — "berouw, terugkeer"
+"Keert tot God in oprecht berouw (تَوْبَةً نَصُوحًا)." Oprecht berouw is een gezuiverde terugkeer — niet slechts ophouden met zondigen maar terugkeren tot de oorsprong. De stam ت-و-ب verbindt met ح-و-ر (terugkeren) — berouw en toewijding delen het begrip van terugkeer tot God.
 
 ## Integratieve verbanden
 

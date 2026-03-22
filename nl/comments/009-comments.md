@@ -21,13 +21,13 @@ Het vers wordt bijna altijd geciteerd vanaf فَاقْتُلُوا ("doodt dan")
 "Indien een der afgodendienaren uw bescherming zoekt, verleen hem dan bescherming, opdat hij het Woord Gods moge horen; geleidt hem dan naar zijn plaats van veiligheid."
 
 - **اسْتَجَارَكَ** — Vorm X van ج-و-ر: nabuurschap zoeken, bescherming zoeken.
-- **مَأْمَنَهُ** — "zijn plaats van veiligheid." Wortel أ-م-ن, dezelfde wortel als إِيمَان (geloof), أَمَان (veiligheid), أَمِين (betrouwbaar). Geloof en veiligheid delen één wortel.
+- **مَأْمَنَهُ** — "zijn plaats van veiligheid." Stam أ-م-ن, dezelfde stam als إِيمَان (geloof), أَمَان (veiligheid), أَمِين (betrouwbaar). Geloof en veiligheid delen één stam.
 
 Het "zwaardvers" is INGEKLEMD tussen: v.4 (eer verdragen) en v.6 (verleen bescherming aan IEDER die erom vraagt). De vermeende "dood alle ongelovigen"-lezing vereist het negeren van v.4, de tweede helft van v.5 en geheel v.6.
 
-### Wortelanalyse v.5
-- **المشركين** — wortel ش-ر-ك: deelgenoten toekennen. Het beschrijft een HANDELING, geen identiteit. Iedereen kan ophouden met deelgenoten toekennen.
-- **تابوا** — wortel ت-و-ب: terugkeren, berouw tonen. Dezelfde wortel als de naam der soera (At-Tawba). De soera over terugkeer biedt terugkeer aan zelfs aan hen tegen wie strijd wordt bevolen.
+### Stamanalyse v.5
+- **المشركين** — stam ش-ر-ك: deelgenoten toekennen. Het beschrijft een HANDELING, geen identiteit. Iedereen kan ophouden met deelgenoten toekennen.
+- **تابوا** — stam ت-و-ب: terugkeren, berouw tonen. Dezelfde stam als de naam der soera (At-Tawba). De soera over terugkeer biedt terugkeer aan zelfs aan hen tegen wie strijd wordt bevolen.
 
 ## Vers 29: Vorm III vs. Vorm I — het cruciale onderscheid
 
@@ -46,7 +46,7 @@ Het beeld is bijna komisch — als proberen de zon uit te blazen. Verbinding met
 
 ## De boog der soera: van losspreking tot terugkeer
 
-Ondanks haar strenge opening heet de soera "Terugkeer" (التوبة). De wortel ت-و-ب verschijnt voortdurend:
+Ondanks haar strenge opening heet de soera "Terugkeer" (التوبة). De stam ت-و-ب verschijnt voortdurend:
 - v.5: "indien zij terugkeren"
 - v.11: "indien zij terugkeren... dan zijn zij uw broeders in het geloof"
 - v.104: "God is Degene die de terugkeer aanvaardt"

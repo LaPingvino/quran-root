@@ -4,7 +4,7 @@
 
 De surah fan de Slach by Badr. Befettet it "slach boppe de nekken"-fers (f.12) en it frede-fers (f.61). De Foardracht kiest net tusken oarloch en frede — it kontekstualissearret beide.
 
-## Woartelanalyze
+## Stamanalyze
 
 ### f.12: Wa sprekt ta wa?
 It befel is fan God oan de ingels — net oan minsklike striiders. De leauwigen wurde *fersterke* (thabbitu), net oanstjoerd om te slaan. "Slach boppe de nekken" — it wurd fawqa (boppe) is eigenaardich foar in letterlike ûnthaadzing. Wat is boppe de nekke? De holle — sit fan grutskens en eigenwiisheid.
@@ -17,5 +17,5 @@ Dit fers nimt it geweld eksplisyt fuort fan minsklik hanneling. De fysike aksje 
 
 ## Yntegrative Ferbiningen
 
-- **f.12 d-r-b ↔ 4:34 d-r-b ↔ 24:31 d-r-b**: de woartel draacht ferskillende betsjuttingen yn ferskillende konteksten.
+- **f.12 d-r-b ↔ 4:34 d-r-b ↔ 24:31 d-r-b**: de stam draacht ferskillende betsjuttingen yn ferskillende konteksten.
 - **f.17 "God fersleat har" ↔ 4:157 "sy fersleine him net"**: beide fersen útdagje minsklike waarnimming fan geweld.

@@ -4,12 +4,12 @@
 
 De soera van de radicale goddelijke nabijheid. V.16 — "Wij zijn hem nader dan zijn halsslagader" — is de meest vergaande verklaring van goddelijke immanentie in de Voordracht.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.16: Wortel ق-ر-ب (q-r-b) — "nabijheid"
+### v.16: Stam ق-ر-ب (q-r-b) — "nabijheid"
 God is nader dan de halsslagader — de ader die bloed naar de hersenen voert, de zetel van het bewustzijn. God is nader dan het eigen zelfbewustzijn. Dit evenwicht met de transcendentie van 57:3.
 
-### vv.17–18: Wortel ر-ق-ب (r-q-b) — "waken"
+### vv.17–18: Stam ر-ق-ب (r-q-b) — "waken"
 Twee ontvangers, gezeten rechts en links: elke uiting wordt opgetekend. De twee ontvangers suggereren een tweeledig verslag — daden der rechterhand en daden der linkerhand — die de afrekening zullen bepalen (vgl. 69:19–25).
 
 ### v.6: "de hemel, hoe Wij hem bouwden en versierden, en hij heeft geen scheuren (فُرُوج)"

@@ -4,23 +4,23 @@
 
 Vier verzen die volgens de overlevering een derde der Koran in gewicht evenaren. De gehele theologie der goddelijke eenheid (tawhied) samengeperst in vier regels.
 
-## Wortelanalyse
+## Stamanalyse
 
 ### V.1: Qoel hoewa-llaahoe ahad
 
-**Ahad** (wortel و-ح-د, w-h-d): niet slechts het getal een (waahid) maar het absoluut unieke — het enige, zonder dat een reeks mogelijk is. Waahid = eerste in een reeks; ahad = de enige, buiten elke reeks.
+**Ahad** (stam و-ح-د, w-h-d): niet slechts het getal een (waahid) maar het absoluut unieke — het enige, zonder dat een reeks mogelijk is. Waahid = eerste in een reeks; ahad = de enige, buiten elke reeks.
 
 ### V.2: Allaahoe as-samad
 
-**As-Samad** (wortel ص-م-د, s-m-d): vast, ondoordringbaar, zelfgenoegzaam, eeuwig. "Eeuwigdurend" vangt de duur, doch de wortel betekent meer: Degene tot Wie allen zich wenden in nood, Die Zelf niets behoeft. Waarop alles leunt, Die op niets leunt. De uiteindelijke grondslag.
+**As-Samad** (stam ص-م-د, s-m-d): vast, ondoordringbaar, zelfgenoegzaam, eeuwig. "Eeuwigdurend" vangt de duur, doch de stam betekent meer: Degene tot Wie allen zich wenden in nood, Die Zelf niets behoeft. Waarop alles leunt, Die op niets leunt. De uiteindelijke grondslag.
 
 ### V.3: Lam jalid wa-lam joelad
 
-**Jalid** (wortel و-ل-د, w-l-d): verwekken, baren. De verleden tijd met lam: "Hij verwekte niet" — het geschiedde nimmer. **Joelad** — lijdende vorm: "noch werd Hij verwekt." God is noch oorzaak noch gevolg in een voortbrengende keten.
+**Jalid** (stam و-ل-د, w-l-d): verwekken, baren. De verleden tijd met lam: "Hij verwekte niet" — het geschiedde nimmer. **Joelad** — lijdende vorm: "noch werd Hij verwekt." God is noch oorzaak noch gevolg in een voortbrengende keten.
 
 ### V.4: Wa-lam jakon lahoe koefoewan ahad
 
-**Koefoe** (wortel ك-ف-أ, k-f-'): gelijk, vergelijkbaar, gelijkwaardig. Niets kan naast God op de Weegschaal worden geplaatst. Het anti-shirk-vers (anti-vereenzelviging) in zijn zuiverste vorm.
+**Koefoe** (stam ك-ف-أ, k-f-'): gelijk, vergelijkbaar, gelijkwaardig. Niets kan naast God op de Weegschaal worden geplaatst. Het anti-shirk-vers (anti-vereenzelviging) in zijn zuiverste vorm.
 
 ## Bahaa'ie-lezing
 

@@ -4,16 +4,16 @@
 
 De surah fan it Grutte Gendergelykheidsfers (f.35), de hijab-fers dat GJIN klaaiingfoarskrift is (f.53), en it Segel fan de Profeten (f.40). Ek it fers fan it Betrouwen dat de minske allinne droech (f.72).
 
-## Woartelanalyze
+## Stamanalyze
 
 ### f.35: It Gendergelykheidsfers
 Tsien pearen fan geastlike prestaasje, elk foar sawol manlju AS froulju: Tawijde manlju en Tawijde froulju, leauwige manlju en leauwige froulju, fromme, wierheftige, geduldige, dimmen, jildmilde, fêstsjende, hoedsjende, en God-yndachtige manlju en froulju. Elke geastlike kwaliteit wurdt yn eksakte parallel neamd. De beleanning is identyk. Dit fers ferneatigjet elke lêzing dy't geastlike hiërarsjy op geslacht basearret.
 
-### Woartel kh-t-m — "segele, befêstigje" (f.40)
-"Muhammad is it Segel fan de Profeten (khatam an-nabiyyin)." De woartel draacht TWA betsjuttingen: (1) slute/ôfslute en (2) autentisearje/befêstigje. In keninklik segel op in dekreet betsjut net "gjin dekrete mear" — it betsjut "dit dekreet is befêstige." Khatam kin ek "sieraad" of "ring" betsjutte — Muhammad as it moaiste sieraad fan de profetyske line.
+### Stam kh-t-m — "segele, befêstigje" (f.40)
+"Muhammad is it Segel fan de Profeten (khatam an-nabiyyin)." De stam draacht TWA betsjuttingen: (1) slute/ôfslute en (2) autentisearje/befêstigje. In keninklik segel op in dekreet betsjut net "gjin dekrete mear" — it betsjut "dit dekreet is befêstige." Khatam kin ek "sieraad" of "ring" betsjutte — Muhammad as it moaiste sieraad fan de profetyske line.
 
-### Woartel '-m-n — "it Betrouwen" (f.72)
-"Wy beaen it Betrouwen (al-amana) oan de himelen en de ierde en de bergen, mar sy wegerje." Deselde woartel as iman (leauwe), aman (feilichheid), mu'min (leauwige). It Betrouwen dat de minskheid draacht IS leauwe sels.
+### Stam '-m-n — "it Betrouwen" (f.72)
+"Wy beaen it Betrouwen (al-amana) oan de himelen en de ierde en de bergen, mar sy wegerje." Deselde stam as iman (leauwe), aman (feilichheid), mu'min (leauwige). It Betrouwen dat de minskheid draacht IS leauwe sels.
 
 ## Yntegrative Ferbiningen
 

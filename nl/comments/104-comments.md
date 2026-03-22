@@ -4,15 +4,15 @@
 
 Wie andermans naam vermorzelt wordt zelf vermorzeld — de straf weerspiegelt de zonde. De Vermorzelaar (الحطمة) vernielt de lasteraar (الهمزة) die anderen vernield heeft.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ه-م-ز (h-m-z) — "lasteren, met woorden vermorzelen"
-**الهمزة** — degene die andermans reputatie vermorzelt door insinuatie. Het gepaarde begrip **لمزة** (loemazah, roddelaar) gebruikt de wortel ل-م-ز (wenken, spottend gebaren). Samen: openlijk vermorzelen en heimelijk bespotten — het volle spectrum van karaktermoord.
+### v.1: Stam ه-م-ز (h-m-z) — "lasteren, met woorden vermorzelen"
+**الهمزة** — degene die andermans reputatie vermorzelt door insinuatie. Het gepaarde begrip **لمزة** (loemazah, roddelaar) gebruikt de stam ل-م-ز (wenken, spottend gebaren). Samen: openlijk vermorzelen en heimelijk bespotten — het volle spectrum van karaktermoord.
 
-### v.4: Wortel ح-ط-م (h-th-m) — "vermorzelen, verbrijzelen"
+### v.4: Stam ح-ط-م (h-th-m) — "vermorzelen, verbrijzelen"
 "Hij zal ongetwijfeld geworpen worden in de Vermorzelaar (الحطمة)." Wie reputaties vermorzelt wordt in de Vermorzelaar geworpen. De straf weerspiegelt de zonde.
 
-### v.7: Wortel ف-ء-د (f-alif-d) — "hart"
+### v.7: Stam ف-ء-د (f-alif-d) — "hart"
 "Dat opspringt over de harten (الأفئدة)." Het vuur Gods richt zich op de harten — niet op het vlees. De zonde des lasteraars was een zonde des harten (kwaadwilligheid, hebzucht); het vuur keert terug naar zijn bron.
 
 ## Integratieve verbanden

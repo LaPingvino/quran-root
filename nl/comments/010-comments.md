@@ -7,7 +7,7 @@ Soera Joenoes is een Mekkaanse soera die draait om de waarheid der openbaring, h
 ## Sleutelvertalingen
 
 ### "verhullen" voor كفر (kafara)
-Wortel ك-ف-ر: bedekken, verhullen. Door de gehele soera consequent als "verhullen" vertaald — zij die de waarheid bedekken. In v.4 verschijnt de dubbele betekenis: zij die verhullen ontvangen "kokend water" — hun eigen bedekking keert zich tegen hen.
+Stam ك-ف-ر: bedekken, verhullen. Door de gehele soera consequent als "verhullen" vertaald — zij die de waarheid bedekken. In v.4 verschijnt de dubbele betekenis: zij die verhullen ontvangen "kokend water" — hun eigen bedekking keert zich tegen hen.
 
 ### "Voordracht" voor القرآن (al-Qur'aan)
 In v.15 vragen de verhullenden om "een Voordracht anders dan deze" — zij willen een andere boodschap. De keuze voor "Voordracht" benadrukt dat het een levend, voorgedragen woord is, geen statisch boek. In v.37 heet de Voordracht "een bevestiging van hetgeen vóór haar is" — zij staat in een keten van openbaring.
@@ -21,7 +21,7 @@ In v.84 zegt Mozes: "indien gij u hebt Toegewijd" — en in v.90 zegt Farao: "ik
 
 ## v.37: De Voordracht als bevestiging
 
-"Deze Voordracht kon niet verzonnen zijn door iemand buiten God, doch zij is een bevestiging van hetgeen vóór haar is." Wortel ف-ت-ر (verzinnen) verbindt dit vers met 12:111. De zelfauthenticatie der Voordracht loopt dwars door de soera's.
+"Deze Voordracht kon niet verzonnen zijn door iemand buiten God, doch zij is een bevestiging van hetgeen vóór haar is." Stam ف-ت-ر (verzinnen) verbindt dit vers met 12:111. De zelfauthenticatie der Voordracht loopt dwars door de soera's.
 
 ## v.57: Genezing voor de borsten
 
@@ -29,15 +29,15 @@ In v.84 zegt Mozes: "indien gij u hebt Toegewijd" — en in v.90 zegt Farao: "ik
 
 ## v.62: De vrienden Gods
 
-"De vrienden Gods — geen vrees zal over hen zijn, noch zullen zij treuren." Het Arabische أولياء (awlija') — wortel و-ل-ي: nabij zijn, beschermen — beschrijft niet passieve vriendschap maar actieve nabijheid tot God. De belofte geldt "in het leven dezer wereld en in het Hiernamaals" (v.64): de bescherming is niet toekomstig maar begint nu.
+"De vrienden Gods — geen vrees zal over hen zijn, noch zullen zij treuren." Het Arabische أولياء (awlija') — stam و-ل-ي: nabij zijn, beschermen — beschrijft niet passieve vriendschap maar actieve nabijheid tot God. De belofte geldt "in het leven dezer wereld en in het Hiernamaals" (v.64): de bescherming is niet toekomstig maar begint nu.
 
 ## v.99: Geen dwang
 
-"Zoudt gij dan de mensen willen dwingen totdat zij gelovigen zijn?" Wortel ك-ر-ه (dwingen) is dezelfde wortel als in 2:256 (لا إكراه في الدين). Het beginsel van geweldloosheid is geen geïsoleerd vers maar verweven door het weefsel der Voordracht.
+"Zoudt gij dan de mensen willen dwingen totdat zij gelovigen zijn?" Stam ك-ر-ه (dwingen) is dezelfde stam als in 2:256 (لا إكراه في الدين). Het beginsel van geweldloosheid is geen geïsoleerd vers maar verweven door het weefsel der Voordracht.
 
 ## Integratieve verbanden
 
 - v.47 ("voor elke gemeenschap is een boodschapper") ↔ 16:36 en 35:24: de universaliteit der openbaring
 - v.57 (genezing der borsten) ↔ 17:82: de Voordracht als medicijn
-- v.37 (niet verzonnen) ↔ 12:111: dezelfde wortel ف-ت-ر verbindt beide soera's
+- v.37 (niet verzonnen) ↔ 12:111: dezelfde stam ف-ت-ر verbindt beide soera's
 - v.20 ("het verborgene behoort slechts aan God") ↔ 27:65: Gods alleenrecht op het verborgene

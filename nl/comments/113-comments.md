@@ -4,15 +4,15 @@
 
 Een der twee "toevluchtssoera's" (المعوذتان) — 113 en 114. Soera 113 zoekt toevlucht tegen uitwendig kwaad; Soera 114 tegen het inwendige kwaad (de influisteraar). De vier kwaden zijn gerangschikt in opklimmende subtiliteit.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ف-ل-ق (f-l-q) — "splijten, openbreken"
-**الفلق** — de Dageraad IS de splijting der duisternis. Dezelfde wortel als in 6:95 (فَالِقُ الْحَبِّ وَالنَّوَىٰ, "de Splijter van het zaad en de dadelpit"). God splijt zaden tot leven en duisternis tot licht — dezelfde daad. De dageraad als dagelijkse opstanding.
+### v.1: Stam ف-ل-ق (f-l-q) — "splijten, openbreken"
+**الفلق** — de Dageraad IS de splijting der duisternis. Dezelfde stam als in 6:95 (فَالِقُ الْحَبِّ وَالنَّوَىٰ, "de Splijter van het zaad en de dadelpit"). God splijt zaden tot leven en duisternis tot licht — dezelfde daad. De dageraad als dagelijkse opstanding.
 
-### v.4: Wortel ن-ف-ث (n-f-th) — "blazen" / ع-ق-د ('ayn-q-d) — "knopen"
-"De blazenden (النفاثات) op de knopen (العقد)." De wortel ع-ق-د geeft عَقْد (contract, verbond). "Knopen" zijn banden — verbonden, verhoudingen, verbintenissen. De blazenden op de knopen zijn zij die banden trachten te ontbinden, verbonden te verbreken, wat samengebonden was los te maken. Vergelijk met 2:27 "die doorsnijden wat God gebood samen te voegen."
+### v.4: Stam ن-ف-ث (n-f-th) — "blazen" / ع-ق-د ('ayn-q-d) — "knopen"
+"De blazenden (النفاثات) op de knopen (العقد)." De stam ع-ق-د geeft عَقْد (contract, verbond). "Knopen" zijn banden — verbonden, verhoudingen, verbintenissen. De blazenden op de knopen zijn zij die banden trachten te ontbinden, verbonden te verbreken, wat samengebonden was los te maken. Vergelijk met 2:27 "die doorsnijden wat God gebood samen te voegen."
 
-### v.5: Wortel ح-س-د (h-s-d) — "afgunstig zijn"
+### v.5: Stam ح-س-د (h-s-d) — "afgunstig zijn"
 De afgunstige "wanneer hij afgunstig is" — afgunst als een actieve, gewilde staat, niet een passief gevoel.
 
 ## De structuur van het kwaad

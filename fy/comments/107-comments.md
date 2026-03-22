@@ -4,13 +4,13 @@
 
 "Hast him sjoen dy't de religy ûntkent? Dat is dejinge dy't de wees fuorttrapet en net oantrúnt ta it fieden fan de earme." Religy ûntkenne is net in abstrakte teologyske posysje — it is in sosjale died.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel d-y-n — "religy, oardiel" (f.1)
-"Hast him sjoen dy't de religy (ad-din) ûntkent?" Deselde woartel as yn 1:4 (Dei fan it Oardiel). Religy en oardiel binne ien woartel — religy ûntkenne is oardiel ûntkenne is de wees ôfwize.
+### Stam d-y-n — "religy, oardiel" (f.1)
+"Hast him sjoen dy't de religy (ad-din) ûntkent?" Deselde stam as yn 1:4 (Dei fan it Oardiel). Religy en oardiel binne ien stam — religy ûntkenne is oardiel ûntkenne is de wees ôfwize.
 
-### Woartel m-'-n — "lytse goedheid" (f.7)
-"En de lytse goedheid (al-ma'un) wegerje." De woartel betsjut lytse deistikse help — sâlt liene, in skaal dielen, in buorman helpe. De surah feroardielet net allinne grutte ûnrjochtfeardigens mar de wegering fan LYTSE goedheid.
+### Stam m-'-n — "lytse goedheid" (f.7)
+"En de lytse goedheid (al-ma'un) wegerje." De stam betsjut lytse deistikse help — sâlt liene, in skaal dielen, in buorman helpe. De surah feroardielet net allinne grutte ûnrjochtfeardigens mar de wegering fan LYTSE goedheid.
 
 ## Yntegrative Ferbiningen
 

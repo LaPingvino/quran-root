@@ -4,15 +4,15 @@
 
 De surah waans namme ferklearret dat de tekens fan de Foardracht METTIIDLIK ûnderskieden binne — net faach mar sekuer útinoarset. De organen fan it lichems wurde har eigen rjochtseal.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel f-s-l — "útinoarsette, ûnderskiede" (f.3)
-"In Boek waans tekens útinoarset binne (fussilat)." De woartel betsjut skiede, yn detail beskriuwe, helder artikulearje. Deselde woartel jout ús fasl (beslissende skieding, as yn de Dei fan Underskied). Utinoarsetting is in died fan it útinoarsplitsjen fan tekens sadat elk ûndersocht wurde kin.
+### Stam f-s-l — "útinoarsette, ûnderskiede" (f.3)
+"In Boek waans tekens útinoarset binne (fussilat)." De stam betsjut skiede, yn detail beskriuwe, helder artikulearje. Deselde stam jout ús fasl (beslissende skieding, as yn de Dei fan Underskied). Utinoarsetting is in died fan it útinoarsplitsjen fan tekens sadat elk ûndersocht wurde kin.
 
-### Woartel sh-h-d — "tsjûgje" (ff.20-22)
-Gehoar, gesicht en hûd tsjûgje tsjin har eigners. De woartel betsjut oanwêzich wêze, tsjûgje, observearje. It lichems wurdt syn eigen rjochtseal. De hûd protestearret: "God hat ús spraak jûn, Hy Dy't spraak jout oan alle dingen" — bewustwêzen útwreide ta alle matearje.
+### Stam sh-h-d — "tsjûgje" (ff.20-22)
+Gehoar, gesicht en hûd tsjûgje tsjin har eigners. De stam betsjut oanwêzich wêze, tsjûgje, observearje. It lichems wurdt syn eigen rjochtseal. De hûd protestearret: "God hat ús spraak jûn, Hy Dy't spraak jout oan alle dingen" — bewustwêzen útwreide ta alle matearje.
 
-### Woartel f-d-l — "ôfwarre mei wat better is" (f.34)
+### Stam f-d-l — "ôfwarre mei wat better is" (f.34)
 "War ôf mei dat wat better is; dan sil dejinge tusken dy en wa't der fijânskip wie wurde as in fertrouling." Net inkeld geduld mar aktyf transformearjen fan fijânskip troch superieur gedrach.
 
 ## Yntegrative Ferbiningen

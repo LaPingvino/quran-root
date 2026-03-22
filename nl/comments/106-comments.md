@@ -4,12 +4,12 @@
 
 De sociale band die Mekka's welvaart mogelijk maakte wordt benoemd en vervolgens naar haar bron verwezen. De keten: God onderhoud het Huis, het Huis onderhoud de handel, de handel onderhoud Qoeraisj. Verwijder de eerste schakel en alles stort in.
 
-## Wortelanalyse
+## Stamanalyse
 
-### vv.1–2: Wortel إ-ل-ف (alif-l-f) — "samenbinden, vertrouwd zijn"
-**إيلاف** — de wortel betekent vertrouwdheid, verbond, verbond van vrije doorgang. De herhaling benadrukt: Qoeraisj's handelsroutes (winter naar Jemen, zomer naar Syrië) berustten op bindende overeenkomsten.
+### vv.1–2: Stam إ-ل-ف (alif-l-f) — "samenbinden, vertrouwd zijn"
+**إيلاف** — de stam betekent vertrouwdheid, verbond, verbond van vrije doorgang. De herhaling benadrukt: Qoeraisj's handelsroutes (winter naar Jemen, zomer naar Syrië) berustten op bindende overeenkomsten.
 
-### v.3: Wortel ر-ب-ب (r-b-b) — "Heer, onderhouder"
+### v.3: Stam ر-ب-ب (r-b-b) — "Heer, onderhouder"
 "De Heer van dit Huis (رب)." Niet slechts meester maar voeder, onderhouder, opvoeder. Qoeraisj wordt opgedragen de رب der Ka'bah te aanbidden — Degene die het Huis onderhoudt dat hun handel onderhoudt.
 
 ## Integratieve verbanden

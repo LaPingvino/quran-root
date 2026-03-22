@@ -4,12 +4,12 @@
 
 Salomo ferstiet de taal fan fûgels en miammels — de Foardracht ferheft dierkommunikaasje fan lûd nei diskours. De Keninginne fan Seba presentearret in model fan froulike lieding: diplomatyk, wiis, en úteinlik tawijd oan God, net oan Salomo.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel n-t-q — "sprekke, redenearje" (f.16)
-"Wy binne de spraak fan de fûgels leard (mantiq at-tayr)." De woartel jout ús mantiq (logika). Salomo heard net inkeld dierlike lûden — hy begrypt har logika, har rasjonele kommunikaasje. Dit ferheft dierkommunikaasje ta diskours, paralleljend 6:38 ("sy binne mienskippen as jimme").
+### Stam n-t-q — "sprekke, redenearje" (f.16)
+"Wy binne de spraak fan de fûgels leard (mantiq at-tayr)." De stam jout ús mantiq (logika). Salomo heard net inkeld dierlike lûden — hy begrypt har logika, har rasjonele kommunikaasje. Dit ferheft dierkommunikaasje ta diskours, paralleljend 6:38 ("sy binne mienskippen as jimme").
 
-### Woartel '-l-m — "kennis" (f.40)
+### Stam '-l-m — "kennis" (f.40)
 "Dejinge dy't kennis hie fan it Boek" transportearre de troan fan de Keninginne fan Seba yn in eachwink. De ifrit (machtige skim) biedt fysike krêft; dejinge mei kennis oertreft him folslein. Kennis út it Boek oertreft alle fysike en skimige macht.
 
 ### De miammel har spraak (f.18)

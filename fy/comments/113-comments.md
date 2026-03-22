@@ -4,10 +4,10 @@
 
 "Sis: Ik sykje taflecht by de Hear fan de Moarnsglâns." De earste fan de twa beskerming-surahs (mu'awwidhatayn). Beskerming socht tsjin fjouwer boarnen fan kwea.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel f-l-q — "splite, moarnsglâns" (f.1)
-"De Hear fan de Moarnsglâns (al-falaq)." De woartel betsjut splite, brekke, kliuwe. De moarnsglâns is it tsjuster dat spjalt — it ljocht dat trochbrekt. Deselde woartel as yn 6:95 "Hy spjalt de grein en de pitten."
+### Stam f-l-q — "splite, moarnsglâns" (f.1)
+"De Hear fan de Moarnsglâns (al-falaq)." De stam betsjut splite, brekke, kliuwe. De moarnsglâns is it tsjuster dat spjalt — it ljocht dat trochbrekt. Deselde stam as yn 6:95 "Hy spjalt de grein en de pitten."
 
 ### Fjouwer boarnen fan kwea (ff.2-5)
 1. It kwea fan wat Hy skoep (de skepping sels befettet kwea)

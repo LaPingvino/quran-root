@@ -4,15 +4,15 @@
 
 "Ferhearlikje de namme fan dyn Hear, de Heechste" — it antwurd op Farao's claim "Ik bin jimme hear, de heechste" (79:24). De surah dy't ferklearret dat de skriften fan Abraham en Mozes deselde boadskip befetsje.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel '-l-w — "heech, ferheven" (f.1)
-"Ferhearlikje de namme fan dyn Hear, de Heechste (al-a'la)." Deselde woartel as 'Ali (de Ferhevene) — de namme dy't troch de hiele keatling fan iepenbaring rint.
+### Stam '-l-w — "heech, ferheven" (f.1)
+"Ferhearlikje de namme fan dyn Hear, de Heechste (al-a'la)." Deselde stam as 'Ali (de Ferhevene) — de namme dy't troch de hiele keatling fan iepenbaring rint.
 
-### Woartel z-k-w — "suverje" (f.14)
-"Slagge is hy dy't suverje (tazakka)." Deselde suveringswoartel as yn 79:18 en 91:9.
+### Stam z-k-w — "suverje" (f.14)
+"Slagge is hy dy't suverje (tazakka)." Deselde suveringsstam as yn 79:18 en 91:9.
 
-### Woartel dh-k-r — "yndachtich meitsje" (f.15)
+### Stam dh-k-r — "yndachtich meitsje" (f.15)
 "En de namme fan syn Hear yndachtich makke (dhakara) en bea." Yndachtiging liedt ta gebed — de twa stappen fan geastlik libben.
 
 ## Yntegrative Ferbiningen

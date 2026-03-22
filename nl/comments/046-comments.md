@@ -4,12 +4,12 @@
 
 De waarschuwer staat op onvaste grond — de zandheuvels zijn indrukwekkend in omvang doch onderhevig aan de wind. Een metafoor voor valse zekerheid.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.21: Wortel ح-ق-ف (h-q-f) — "zandheuvels"
-De broeder van Aad waarschuwt "te midden der zandheuvels (الأَحْقَاف)." De wortel verwijst naar gebogen zandformaties — verschuivend, onbestendig terrein. De theologische setting is nauwkeurig: de waarschuwer staat op wankele grond, terwijl hij een volk waarschuwt dat zich veilig waant.
+### v.21: Stam ح-ق-ف (h-q-f) — "zandheuvels"
+De broeder van Aad waarschuwt "te midden der zandheuvels (الأَحْقَاف)." De stam verwijst naar gebogen zandformaties — verschuivend, onbestendig terrein. De theologische setting is nauwkeurig: de waarschuwer staat op wankele grond, terwijl hij een volk waarschuwt dat zich veilig waant.
 
-### vv.29–32: Wortel ج-ن-ن (j-n-n) — "verschijningen als ontvangers der openbaring"
+### vv.29–32: Stam ج-ن-ن (j-n-n) — "verschijningen als ontvangers der openbaring"
 Verschijningen luisteren naar de Voordracht en keren terug om hun eigen volk te waarschuwen. Dit is de directe voorloper van Soera 72. De verborgen dimensie hoort openbaring niet slechts af — zij reageert, gelooft en verspreidt de boodschap.
 
 ### v.15: De levensboog van afhankelijkheid tot toewijding

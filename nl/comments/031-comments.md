@@ -4,12 +4,12 @@
 
 Het wijsheidstestament van een vader aan zijn zoon. Luqman ontvangt dezelfde wijsheid (حِكْمَة) die het Boek zelf wordt toegeschreven — wijsheid is de gedeelde substantie tussen schrift en de wijze mens.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.12: Wortel ش-ك-ر (sj-k-r) — "dankbaarheid"
+### v.12: Stam ش-ك-ر (sj-k-r) — "dankbaarheid"
 Het binair ش-ك-ر / ك-ف-ر verschijnt uitdrukkelijk: dankbaarheid tegenover verhulling. Luqmans eerste onderricht is dat dankbaarheid de gever baat, niet God. De Zelfgenoegzame (الغني) behoeft niets — dankbaarheid is 's mensen eigen ontsluiering.
 
-### v.14: Wortel و-ص-ي (w-s-j) — "opdragen, nalaten"
+### v.14: Stam و-ص-ي (w-s-j) — "opdragen, nalaten"
 "Wij hebben de mens opgedragen (وَصَّيْنَا) aangaande zijn ouders." De ouder-kind-band is een goddelijke nalatenschap. Luqmans wijsheid is zelf een وَصِيَّة — een legaat van vader aan zoon. De soera weerspiegelt deze structuur: God laat wijsheid na aan Luqman, Luqman aan zijn zoon, de soera aan de lezer.
 
 ### v.27: "waren alle bomen op aarde pennen..."

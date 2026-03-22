@@ -13,7 +13,7 @@ In v.89 weigeren "de meesten der mensen alles behalve te verhullen" — de hardn
 De Voordracht verschijnt hier in meervoudige rollen: als "leiding tot hetgeen het meest recht is" (v.9), als genezingsmiddel (v.82), als onnavolgbaar meesterwerk (v.88), en als gefaseerde openbaring "die Wij hebben verdeeld" (v.106). Elk aspect benadrukt het levende karakter.
 
 ### "schimmen" voor جن (djinn)
-In v.88: "de mensheid en de schimmen tezamen." Wortel ج-ن-ن: verhullen, verbergen. De schimmen zijn de verborgen wezens — alle zichtbare én onzichtbare krachten samen kunnen de Voordracht niet evenaren.
+In v.88: "de mensheid en de schimmen tezamen." Stam ج-ن-ن: verhullen, verbergen. De schimmen zijn de verborgen wezens — alle zichtbare én onzichtbare krachten samen kunnen de Voordracht niet evenaren.
 
 ## vv.23–39: De ethische code
 
@@ -21,15 +21,15 @@ Deze verzen vormen het equivalent van de Tien Geboden: God alleen aanbidden, de 
 
 ## v.44: Alle dingen verheerlijken
 
-"Er is geen ding of het verheerlijkt Zijn lof, doch gij begrijpt hun verheerlijking niet." Wortel س-ب-ح: zwemmen, drijven, verheerlijken. Alle schepping "zwemt" in lofprijzing — verheerlijking is niet een menselijke handeling opgelegd aan de natuur maar de natuurlijke beweging van het bestaan zelf.
+"Er is geen ding of het verheerlijkt Zijn lof, doch gij begrijpt hun verheerlijking niet." Stam س-ب-ح: zwemmen, drijven, verheerlijken. Alle schepping "zwemt" in lofprijzing — verheerlijking is niet een menselijke handeling opgelegd aan de natuur maar de natuurlijke beweging van het bestaan zelf.
 
 ## v.79: De geprezen standplaats
 
-"Het kan zijn dat uw Heer u tot een geprezen standplaats zal verheffen." Wortel ح-م-د (prijzen) verbindt مَقَامًا مَحْمُودًا (geprezen standplaats) met de naam Muhammad zelf. De geprezen standplaats IS de standplaats van hem wiens naam "geprezen" betekent.
+"Het kan zijn dat uw Heer u tot een geprezen standplaats zal verheffen." Stam ح-م-د (prijzen) verbindt مَقَامًا مَحْمُودًا (geprezen standplaats) met de naam Muhammad zelf. De geprezen standplaats IS de standplaats van hem wiens naam "geprezen" betekent.
 
 ## v.85: De Geest
 
-"De Geest is van het gebod mijns Heren." De Geest (الروح, ar-roeh) is geen substantie maar een goddelijk gebod — wortel ر-و-ح: adem, wind, geest, erbarmen. De geest is Gods gebod dat zich manifesteert.
+"De Geest is van het gebod mijns Heren." De Geest (الروح, ar-roeh) is geen substantie maar een goddelijk gebod — stam ر-و-ح: adem, wind, geest, erbarmen. De geest is Gods gebod dat zich manifesteert.
 
 ## v.88: De onnavolgbare Voordracht
 
@@ -37,7 +37,7 @@ Deze verzen vormen het equivalent van de Tien Geboden: God alleen aanbidden, de 
 
 ## Integratieve verbanden
 
-- v.1 (nachtelijke reis) ↔ 20:77 (Mozes reist bij nacht): dezelfde wortel س-ر-ي
+- v.1 (nachtelijke reis) ↔ 20:77 (Mozes reist bij nacht): dezelfde stam س-ر-ي
 - v.82 (de Voordracht als genezing) ↔ 10:57: genezing voor de borsten
 - vv.23–39 (ethische code) ↔ 6:151–153: parallelle opsommingen van geboden
 - v.106 (gefaseerde nederzending) ↔ 25:32: geleidelijke openbaring als versterking

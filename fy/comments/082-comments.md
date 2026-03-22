@@ -4,15 +4,15 @@
 
 De himel brekt, de stjerren fersprute, de seeën oerstreame — kosmyske ûntbining as foarspul fan it oardiel. "O minske, wat hat dy misleid fan dyn Edele Hear?"
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel f-t-r — "brekke, splite" (f.1)
-"As de himel brekt (infatarat)." Deselde woartel as fitra (oarspronklike natuer) en Fatir (de Oarspronger). De himel dy't brekt is de himel dy't nei syn oarsprong weromkeart — kosmyske ûntbining as kosmyske reset.
+### Stam f-t-r — "brekke, splite" (f.1)
+"As de himel brekt (infatarat)." Deselde stam as fitra (oarspronklike natuer) en Fatir (de Oarspronger). De himel dy't brekt is de himel dy't nei syn oarsprong weromkeart — kosmyske ûntbining as kosmyske reset.
 
-### Woartel k-r-m — "eadel, eare" (f.6)
-"O minske, wat hat dy misleid fan dyn EDELE Hear (rabbika al-karim)?" God wurdt hjir karim (eadel, frij-jouwend) neamd — deselde woartel as yn 56:77 (eale Foardracht).
+### Stam k-r-m — "eadel, eare" (f.6)
+"O minske, wat hat dy misleid fan dyn EDELE Hear (rabbika al-karim)?" God wurdt hjir karim (eadel, frij-jouwend) neamd — deselde stam as yn 56:77 (eale Foardracht).
 
-### Woartel r-q-b — "hoedzje, waaksje" (ff.10-12)
+### Stam r-q-b — "hoedzje, waaksje" (ff.10-12)
 "Oer jimme binne hoedslju, eale, skriuwende." Deselde waaksjende ingels as yn 50:17-18.
 
 ## Yntegrative Ferbiningen

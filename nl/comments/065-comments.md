@@ -4,12 +4,12 @@
 
 De soera kadert echtscheidingsrecht geheel binnen taqwa (godvrezendheid) — elke juridische aanwijzing wordt gevolgd door een belofte voor wie godvrezend is. Een huisrechtsoera die eindigt met de architectuur des heelals.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ط-ل-ق (th-l-q) — "loslaten, scheiden"
-Echtscheiding is een loslating — niet een straf maar een ontbinding. De عِدَّة (wachtperiode, wortel ع-د-د, tellen) legt berekening op aan scheiding: zelfs ontbinding vereist orde.
+### v.1: Stam ط-ل-ق (th-l-q) — "loslaten, scheiden"
+Echtscheiding is een loslating — niet een straf maar een ontbinding. De عِدَّة (wachtperiode, stam ع-د-د, tellen) legt berekening op aan scheiding: zelfs ontbinding vereist orde.
 
-### vv.2–5: Wortel و-ق-ي (w-q-j) — "godvrezendheid"
+### vv.2–5: Stam و-ق-ي (w-q-j) — "godvrezendheid"
 "Wie God vreest (وَمَن يَتَّقِ اللَّه)" verschijnt vijfmaal in deze korte soera. Godvrezendheid is de ethische omhulling die pijnlijke maatschappelijke breuken begaanbaar maakt.
 
 ### v.12: "God schiep zeven hemelen, en van de aarde het gelijke"

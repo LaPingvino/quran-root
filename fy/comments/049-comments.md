@@ -4,15 +4,15 @@
 
 De surah fan minsklike ferskaat as godlik ynstrumint foar ûnderling kennen, en it skerpe ûnderskied tusken uterlike tawijing (islam) en ynderlik leauwe (iman).
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel '-r-f — "kenne, werkenne" (f.13)
+### Stam '-r-f — "kenne, werkenne" (f.13)
 "Wy hawwe jimme ta folken en stammen makke, dat jimme elkoar kenne meie (lita'arafu)." Foarm VI (ta'aruf) is wjersidich: ûnderling kennen. Ferskaat fan folken is gjin ûngelok mar in godlik ynstrumint foar wjersidige werkenning. "De ealste ûnder jimme by God is de meast fromme" — ealdom mjitte troch taqwa, net troch komôf.
 
-### Woartel '-m-n tsjinoer s-l-m — "leauwe" tsjinoer "tawijing" (f.14)
+### Stam '-m-n tsjinoer s-l-m — "leauwe" tsjinoer "tawijing" (f.14)
 "De Arabyske bedoeïnen sizze: 'Wy leauwe (amanna).' Sis: 'Jimme leauwe net, mar sis: Wy hawwe ús tawijd (aslamna), want it leauwe is jimme herten noch net binnengien.'" In skerp ûnderskied: uterlike tawijing (islam) en ynderlik leauwe (iman). Tawijing kin earst uterlik útfierd wurde; leauwe is tawijing ynderlik makke.
 
-### Woartel h-j-r — "keamer, omsluting" (f.4)
+### Stam h-j-r — "keamer, omsluting" (f.4)
 De surahnamme komt fan al-hujurat — privee keamers dêr't minsken efter roppe nei de Profeet. De fysike barriêre (keamer) spegelet de geastlike barriêre (grutskens) tusken de ropper en de oanroppene.
 
 ## Yntegrative Ferbiningen

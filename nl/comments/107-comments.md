@@ -4,15 +4,15 @@
 
 De kleinste daden van hulp — een pot uitlenen, zout aanbieden, water delen — zijn het maatstaf des geloofs. De toets is niet geloofsbelijdenis maar gedrag: voedt hij de wees?
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel د-ي-ن (d-j-n) — "oordeel, godsdienst, schuld"
+### v.1: Stam د-ي-ن (d-j-n) — "oordeel, godsdienst, schuld"
 "Hebt gij hem gezien die het Oordeel loochent (الدين)?" Het woord omvat tegelijk oordeel, godsdienst en schuld/wederkerigheid. Het Oordeel loochenen is alle drie loochenen: dat er afrekening is, dat er een levenswijze is, dat men iets verschuldigd is aan wie dan ook.
 
-### v.7: Wortel م-ع-ن (m-'ayn-n) — "kleine hulpbetoning, vloeiend water"
-**الماعون** — de kleinste daden van hulp: een pot uitlenen, zout aanbieden, water delen. De wortel verband houdt met معين (ma'ien, een vloeiende bron). Het weigeren van kleine hulp is het afdammen van een bron — het blokkeren van wat natuurlijk zou moeten vloeien tussen mensen.
+### v.7: Stam م-ع-ن (m-'ayn-n) — "kleine hulpbetoning, vloeiend water"
+**الماعون** — de kleinste daden van hulp: een pot uitlenen, zout aanbieden, water delen. De stam verband houdt met معين (ma'ien, een vloeiende bron). Het weigeren van kleine hulp is het afdammen van een bron — het blokkeren van wat natuurlijk zou moeten vloeien tussen mensen.
 
-### v.1: Wortel ر-أ-ي (r-alif-j) — "zien, beschouwen"
+### v.1: Stam ر-أ-ي (r-alif-j) — "zien, beschouwen"
 "Hebt gij gezien...?" De soera opent met de eis dat de luisteraar kijkt. Wie het Oordeel loochent wordt getoond door zijn daden — niet door zijn theologie. De toets is niet geloofsbelijdenis maar gedrag.
 
 ## Integratieve verbanden

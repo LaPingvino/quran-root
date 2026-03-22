@@ -2,17 +2,17 @@
 
 ## Algemiene Opmerkingen
 
-De "machtige tiidings" dy't se yn striid binne is net inkeld nijs mar profetyske oankundiging — it wurd naba' dielt syn woartel mei nabi (profeet). Elke profeet bringt in naba'.
+De "machtige tiidings" dy't se yn striid binne is net inkeld nijs mar profetyske oankundiging — it wurd naba' dielt syn stam mei nabi (profeet). Elke profeet bringt in naba'.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel n-b-' — "tiidings, profesy"
-De woartel fan an-naba' dielt de woartel mei nabi (profeet). De "machtige tiidings" (f.2) wêroer sy twistje is yn wêzen: hokker profesy argumintearje jimme oer?
+### Stam n-b-' — "tiidings, profesy"
+De stam fan an-naba' dielt de stam mei nabi (profeet). De "machtige tiidings" (f.2) wêroer sy twistje is yn wêzen: hokker profesy argumintearje jimme oer?
 
-### Woartel f-s-l — "skiede" (f.17)
+### Stam f-s-l — "skiede" (f.17)
 "De Dei fan de Skieding (al-fasl)" — de Dei skiedt wierheid fan falskens as in wever triedden skiedt.
 
-### Woartel k-f-r — "ferbergje" (f.40)
+### Stam k-f-r — "ferbergje" (f.40)
 "De ferberger sil sizze: Wie ik mar stof!" De surah einiget mei de ferberger dy't winskje stof te wurden — it feitlike materiaal dat bedekt. Hy dy't wierheid bedekte winsket sels bedekt te wurden. In bittere irony.
 
 ## Yntegrative Ferbiningen

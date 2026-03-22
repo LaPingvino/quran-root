@@ -4,13 +4,13 @@
 
 De minsken fan de groppen (úkhdud) dy't leauwigen ferbrânden — in ferhaal fan ferfolging. God is tsjûge. En de Foardracht op in bewarre tablet.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel b-r-j — "stierebyldtekens, tuorren" (f.1)
-"By de himel mei stierebyldtekens (buruj)." De woartel betsjut tuorren, ferskine, ferskyningsplakken. De stierebyldtekens binne de tuorren fan de himel — fêsteplakken fan godlik ûntwerp.
+### Stam b-r-j — "stierebyldtekens, tuorren" (f.1)
+"By de himel mei stierebyldtekens (buruj)." De stam betsjut tuorren, ferskine, ferskyningsplakken. De stierebyldtekens binne de tuorren fan de himel — fêsteplakken fan godlik ûntwerp.
 
-### Woartel l-w-h m-h-f-z — "bewarre tablet" (f.22)
-"Yn in bewarre Tablet (lawhun mahfuz)." Deselde woartel h-f-z as yn 15:9 ("Wy binne syn hoeders"). De Foardracht is dûbel bewarre — yn it himelske en troch de woartels sels.
+### Stam l-w-h m-h-f-z — "bewarre tablet" (f.22)
+"Yn in bewarre Tablet (lawhun mahfuz)." Deselde stam h-f-z as yn 15:9 ("Wy binne syn hoeders"). De Foardracht is dûbel bewarre — yn it himelske en troch de stammen sels.
 
 ## Yntegrative Ferbiningen
 

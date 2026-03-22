@@ -4,15 +4,15 @@
 
 "De Werklikheid! Wat is de Werklikheid? En wat sil dy witte litte wat de Werklikheid is?" De trijefallige oanropping — neamje, freegje, wer freegje. It Echte kin net yn foaren kend wurde — it kin allinne oankundige wurde.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel h-q-q — "werklikheid, wierheid" (ff.1-3)
-De woartel betsjut wier wêze, echt wêze, needsaaklik wêze. De Haqqah is de Ûnûntkomlike Werklikheid — de Dei dy't barre MOAT om't it wier is.
+### Stam h-q-q — "werklikheid, wierheid" (ff.1-3)
+De stam betsjut wier wêze, echt wêze, needsaaklik wêze. De Haqqah is de Ûnûntkomlike Werklikheid — de Dei dy't barre MOAT om't it wier is.
 
-### Woartel y-m-n / sh-m-l — "rjochterhân / lofterhân" (ff.19-25)
+### Stam y-m-n / sh-m-l — "rjochterhân / lofterhân" (ff.19-25)
 De rjochtfeardige ûntfangt syn boek yn de rjochter hân en seit "Ik wist dat ik myn rekkening moetsje soe" — kennis gie it barren foarôf. De rjochter-hân-ûntfanger seit "hie ik mar net witten" — kennis is ûndraachlik.
 
-### Woartel k-l-m — "spraak, wurd" (ff.40-43)
+### Stam k-l-m — "spraak, wurd" (ff.40-43)
 "It is de spraak fan in eale Boadskipper... net de spraak fan in dichter... noch de spraak fan in wiersijer." De Foardracht is noch dichterij noch wiersizerij mar godlike spraak fia in eale boadskipper. De boadskipper sprekt mar de wurden binne net fan him.
 
 ## Yntegrative Ferbiningen

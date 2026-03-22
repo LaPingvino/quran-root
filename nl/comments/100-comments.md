@@ -4,12 +4,12 @@
 
 De eed bij de stormende paarden veroordeelt misdirected energie — de paarden stormen met gerichte kracht, de mens stormt door het leven met gelijke felheid maar gericht op rijkdom in plaats van God.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ع-د-و ('ayn-d-w) — "stormlopen, vijandig zijn"
-**العاديات** — de stormende paarden. De wortel betekent zowel rennen/stormlopen als vijandig zijn. De eed zweert bij gerichte energie om verspilde energie te veroordelen.
+### v.1: Stam ع-د-و ('ayn-d-w) — "stormlopen, vijandig zijn"
+**العاديات** — de stormende paarden. De stam betekent zowel rennen/stormlopen als vijandig zijn. De eed zweert bij gerichte energie om verspilde energie te veroordelen.
 
-### v.6: Wortel ك-ف-ر (k-f-r) — "ondankbaar, verhullend"
+### v.6: Stam ك-ف-ر (k-f-r) — "ondankbaar, verhullend"
 "De mens is ondankbaar jegens zijn Heer (كنود)." **كنود** — intens ondankbaar, de schenkingen bedekkend. Hoewel een ander woord dan كافر, overlappen de betekenissen: كنود zijn is de ontvangen gaven bedekken. Ondankbaarheid is een vorm van verhulling.
 
 ### vv.9–10: "graven omgekeerd, borsten voortgebracht"

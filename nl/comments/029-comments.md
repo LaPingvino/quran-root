@@ -14,11 +14,11 @@ In v.46: "onze God en uw God is Eén, en aan Hem Onderwerpen wij ons." De interr
 
 ## v.2: De beproeving als loutering
 
-"Zullen zij niet worden beproefd?" Wortel ف-ت-ن: smelten, louteren door vuur, beproeven. De beproeving is geen straf maar zuivering — hetzelfde proces als het smelten van erts (vgl. 13:17). Geloof dat niet getoetst is, is geloof dat niet bewezen is.
+"Zullen zij niet worden beproefd?" Stam ف-ت-ن: smelten, louteren door vuur, beproeven. De beproeving is geen straf maar zuivering — hetzelfde proces als het smelten van erts (vgl. 13:17). Geloof dat niet getoetst is, is geloof dat niet bewezen is.
 
 ## v.26: Lot trekt weg naar God
 
-"Ik trek weg naar mijn Heer" (مهاجر إلى ربي). Wortel ه-ج-ر: verlaten, emigreren. Lots emigratie is het oerbeeld — niet vluchten *van* verderf maar bewegen *naar* het goddelijke. De fysieke migratie belichaamt de geestelijke onthechting. De wortel verbindt met de Hidjra van Muhammad.
+"Ik trek weg naar mijn Heer" (مهاجر إلى ربي). Stam ه-ج-ر: verlaten, emigreren. Lots emigratie is het oerbeeld — niet vluchten *van* verderf maar bewegen *naar* het goddelijke. De fysieke migratie belichaamt de geestelijke onthechting. De stam verbindt met de Hidjra van Muhammad.
 
 ## v.41: Het huis der spin
 
@@ -34,11 +34,11 @@ In v.46: "onze God en uw God is Eén, en aan Hem Onderwerpen wij ons." De interr
 
 ## v.64: Het ware Leven
 
-"Dit leven der wereld is slechts een vermaak en een spel; en voorwaar, de verblijfplaats van het Hiernamaals, zij is het Leven." Wortel ح-ي-و (leven) wordt voorbehouden aan het hiernamaals — deze wereld is het spel, de volgende is het echte leven. Een volkomen omkering van de verwachting.
+"Dit leven der wereld is slechts een vermaak en een spel; en voorwaar, de verblijfplaats van het Hiernamaals, zij is het Leven." Stam ح-ي-و (leven) wordt voorbehouden aan het hiernamaals — deze wereld is het spel, de volgende is het echte leven. Een volkomen omkering van de verwachting.
 
 ## v.69: Strijden in God
 
-"Zij die in Ons strijden, Wij zullen hen voorzeker leiden op Onze wegen." Wortel ج-ه-د (streven, zich inspannen). Leiding is de beloning van inspanning — niet de voorwaarde. De soera sluit de cirkel: de beproeving (v.2) is de weg, de leiding (v.69) is het doel.
+"Zij die in Ons strijden, Wij zullen hen voorzeker leiden op Onze wegen." Stam ج-ه-د (streven, zich inspannen). Leiding is de beloning van inspanning — niet de voorwaarde. De soera sluit de cirkel: de beproeving (v.2) is de weg, de leiding (v.69) is het doel.
 
 ## Integratieve verbanden
 

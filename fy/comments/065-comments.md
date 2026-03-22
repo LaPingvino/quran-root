@@ -4,12 +4,12 @@
 
 In surah oer skieding dy't einiget mei de arsjitektuer fan it hielal — sân himelen en sân ierden. Sels skieding bart binnen Gods sânlaachich ûntwerp.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel t-l-q — "loslitte, skiede" (f.1)
-De woartel betsjut loslitte, befridzje, losmeitsje. Skieding is in loslitten — net in straf mar in ûntbining. De ynstruksje om "har te skieden foar har wachttiid" fêstiget dat sels ûntbining oarder fereasket.
+### Stam t-l-q — "loslitte, skiede" (f.1)
+De stam betsjut loslitte, befridzje, losmeitsje. Skieding is in loslitten — net in straf mar in ûntbining. De ynstruksje om "har te skieden foar har wachttiid" fêstiget dat sels ûntbining oarder fereasket.
 
-### Woartel t-q-w — "Godsbesef, fromheid" (ff.2-5)
+### Stam t-q-w — "Godsbesef, fromheid" (ff.2-5)
 "Wa't God freset" (wa-man yattaqi Allah) ferskynt FIIF kear yn dizze koarte surah. Elke juridyske ynstruksje wurdt folge troch in belofte foar dyjingen dy't Godsbesef hawwe. Taqwa is de etyske kontener dy't pinlike sosjale brekken navigearber makket.
 
 ### Sân himelen en sân ierden (f.12)

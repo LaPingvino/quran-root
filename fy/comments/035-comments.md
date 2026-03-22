@@ -4,15 +4,15 @@
 
 God as Oarspronger — Hy skept troch it neat iepen te spliten. De surah hammert op de sels-destruktive natuer fan ferberging (k-f-r) en de trijedieling fan de ûntfangers fan it Boek.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel f-t-r — "oarspronklik meitsje, iepensplite" (f.1)
-"De Oarspronger (fatir) fan de himelen en de ierde." De woartel betsjut kliuwe, foar it earst iepensplite — skepping as brekking, net gearstalling. Deselde woartel jout ús fitra (30:30), de oarspronklike natuer. De Oarspronger en de oarspronklike natuer diele ien woartel: Gods skeppingsdied en de minsklike essinsjele sjabloan binne taalkundich ien.
+### Stam f-t-r — "oarspronklik meitsje, iepensplite" (f.1)
+"De Oarspronger (fatir) fan de himelen en de ierde." De stam betsjut kliuwe, foar it earst iepensplite — skepping as brekking, net gearstalling. Deselde stam jout ús fitra (30:30), de oarspronklike natuer. De Oarspronger en de oarspronklike natuer diele ien stam: Gods skeppingsdied en de minsklike essinsjele sjabloan binne taalkundich ien.
 
-### Woartel k-f-r — "bedekke" (fersterkke foarm, f.39)
-"Wa't ferberget, syn ferberging is tsjin himsels." It fers brûkt de woartel k-f-r fiif kear yn rappe opienfolging — it hammerjen op de sels-destruktive natuer fan ferberging. De ferberging skeadet allinne de ferberger — God is net oantaasd.
+### Stam k-f-r — "bedekke" (fersterkke foarm, f.39)
+"Wa't ferberget, syn ferberging is tsjin himsels." It fers brûkt de stam k-f-r fiif kear yn rappe opienfolging — it hammerjen op de sels-destruktive natuer fan ferberging. De ferberging skeadet allinne de ferberger — God is net oantaasd.
 
-### Woartel w-r-th — "ervje" (f.32)
+### Stam w-r-th — "ervje" (f.32)
 "Wy ferervje (awrathna) it Boek oan dyjingen dy't Wy keazen." Trije typen ûntfangers: dyjingen dy't harsels ûnrjocht dogge, matige, en foarlju yn it goede. Alle trije ervje it Boek — de reaksje ferskilt, net de jefte.
 
 ## Yntegrative Ferbiningen

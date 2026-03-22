@@ -4,15 +4,15 @@
 
 God korrizjearret Syn eigen Profeet foar in gesichtsútdrukking — de standert fan ferantwurdlikens rikt sels ta ûnfrijwillige gebaren as in oprjochte siker ôfwiisd wurdt. De bline man soe himsels suverje kinne troch de boadskip.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel '-b-s — "frommelje" (f.1)
-De woartel beskriuwt in sichtbere kontraksje fan it gesicht. De surah iepenet mei God dy't Syn eigen Profeet korrizjearret foar in gebaar.
+### Stam '-b-s — "frommelje" (f.1)
+De stam beskriuwt in sichtbere kontraksje fan it gesicht. De surah iepenet mei God dy't Syn eigen Profeet korrizjearret foar in gebaar.
 
-### Woartel z-k-w — "suverje" (f.3)
+### Stam z-k-w — "suverje" (f.3)
 "Hy soe himsels suverje kinne (yazzakka)." De bline man MEI himsels suverje troch de boadskip; de rollen (f.14) binne sels "suverje." It medium en de siker diele deselde kwaliteit — suverheid moetet suverheid.
 
-### Woartel k-f-r — "ferbergje" (f.42)
+### Stam k-f-r — "ferbergje" (f.42)
 "Dy binne de ferbergers, de kweaden." Gesichten bedekt mei tsjuster (f.41) binne dyjingen dy't ferbergje — it uterlike tsjuster spegelet de ynderlike died fan ferberging.
 
 ## Yntegrative Ferbiningen

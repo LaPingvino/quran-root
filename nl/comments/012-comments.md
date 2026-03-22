@@ -17,11 +17,11 @@ In v.102: "berichten van het verborgene die Wij u openbaren." Het verborgene is 
 
 ## v.4: De elf sterren
 
-Jozefs droom — elf sterren, de zon en de maan — is het zaad van het gehele verhaal. De uitleg komt pas in v.100 wanneer zijn ouders en broeders zich voor hem nederwerpen. De boog van droom naar vervulling bestrijkt het hele leven — ta'wiel (uitleg, wortel أ-و-ل: terugkeren naar de oorsprong) is geen onmiddellijk proces maar een geleidelijk ontvouwen.
+Jozefs droom — elf sterren, de zon en de maan — is het zaad van het gehele verhaal. De uitleg komt pas in v.100 wanneer zijn ouders en broeders zich voor hem nederwerpen. De boog van droom naar vervulling bestrijkt het hele leven — ta'wiel (uitleg, stam أ-و-ل: terugkeren naar de oorsprong) is geen onmiddellijk proces maar een geleidelijk ontvouwen.
 
 ## v.24: De toegewijde dienaar
 
-"Hij behoorde tot Onze toegewijde dienaren" (مخلصين, mochlasien) — wortel خ-ل-ص: zuiver zijn, rein maken. Jozef weerstaat de verleiding niet door eigen kracht maar doordat hij een "bewijs zijns Heren" ziet (v.24). De zuiverheid is ontvangen, niet zelfgemaakt.
+"Hij behoorde tot Onze toegewijde dienaren" (مخلصين, mochlasien) — stam خ-ل-ص: zuiver zijn, rein maken. Jozef weerstaat de verleiding niet door eigen kracht maar doordat hij een "bewijs zijns Heren" ziet (v.24). De zuiverheid is ontvangen, niet zelfgemaakt.
 
 ## v.53: De gebiedende ziel
 
@@ -29,7 +29,7 @@ Jozefs droom — elf sterren, de zon en de maan — is het zaad van het gehele v
 
 ## v.87: De Geest Gods
 
-"Wanhoopt niet aan de Geest Gods" (روح الله, roeh Allaah). Jacob stuurt zijn zonen terug met deze aansporing. Het woord روح (roeh, geest/adem) — wortel ر-و-ح — draagt troost, hoop, adem. Wanhopen aan de Geest is wanhopen aan de levensadem zelf.
+"Wanhoopt niet aan de Geest Gods" (روح الله, roeh Allaah). Jacob stuurt zijn zonen terug met deze aansporing. Het woord روح (roeh, geest/adem) — stam ر-و-ح — draagt troost, hoop, adem. Wanhopen aan de Geest is wanhopen aan de levensadem zelf.
 
 ## v.94: De geur van Jozef
 
@@ -37,7 +37,7 @@ Jozefs droom — elf sterren, de zon en de maan — is het zaad van het gehele v
 
 ## Integratieve verbanden
 
-- v.111 (geen verzonnen verhaal) ↔ 10:37: dezelfde wortel ف-ت-ر
+- v.111 (geen verzonnen verhaal) ↔ 10:37: dezelfde stam ف-ت-ر
 - v.53 (de gebiedende ziel) ↔ 75:2 en 89:27: de drie zielstoestanden
-- v.3 (het schoonste der verhalen) ↔ 28:1-3: wortel ق-ص-ص verbindt beide "verhaalsoera's"
+- v.3 (het schoonste der verhalen) ↔ 28:1-3: stam ق-ص-ص verbindt beide "verhaalsoera's"
 - v.101 (sterven in Toewijding) ↔ 22:78: Abraham als oorsprong van de naam "Toegewijden"

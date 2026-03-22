@@ -4,7 +4,7 @@
 
 De iennige surah sûnder de Basmala. Tradisjonele ferklearring: de earnst fan de iepening wie ûnferienber mei it oanroppen fan barmhertichheid. In tredde mooglikheid: de ôfwêzichheid fan de Basmala IS it punt — dizze surah giet oer brutsen ferbûnen.
 
-## Woartelanalyze
+## Stamanalyze
 
 ### It "Swurdfers" (f.5) — it meast bewapene fers
 It fers wurdt hast altyd sitearre fanôf "dea dan" ôf, wêrmei't ôfsnitten wurdt:
@@ -14,7 +14,7 @@ It fers wurdt hast altyd sitearre fanôf "dea dan" ôf, wêrmei't ôfsnitten wur
 4. **f.6** dat FUORTENDALIKS folget mei in asylklausule
 
 ### f.6: It Asylfers — altyd weilitten
-"En as ien fan de polyteïsten dyn beskerming siket, jou him dan beskerming." Dit is in BEFEL, net in suggestje. De woartel '-m-n jout ús sawol iman (leauwen) as aman (feiligens) — leauwen en feiligens diele ien woartel.
+"En as ien fan de polyteïsten dyn beskerming siket, jou him dan beskerming." Dit is in BEFEL, net in suggestje. De stam '-m-n jout ús sawol iman (leauwen) as aman (feiligens) — leauwen en feiligens diele ien stam.
 
 ## Yntegrative Ferbiningen
 

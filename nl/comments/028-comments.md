@@ -2,7 +2,7 @@
 
 ## Algemene opmerkingen
 
-De soera draagt de naam "De Verhalen" (القصص, al-qasas, wortel ق-ص-ص: volgen, navertellen) — dezelfde wortel als in 12:3 (het schoonste der verhalen). Waar soera 12 één doorlopend verhaal vertelt, weeft soera 28 het Mozesverhaal met hedendaagse Mekkaanse zorgen. Het Mozesverhaal hier (vv.3–43) is het meest persoonlijke portret van Mozes in de Voordracht: zijn kindertijd, zijn vlucht naar Midjan, zijn huwelijk.
+De soera draagt de naam "De Verhalen" (القصص, al-qasas, stam ق-ص-ص: volgen, navertellen) — dezelfde stam als in 12:3 (het schoonste der verhalen). Waar soera 12 één doorlopend verhaal vertelt, weeft soera 28 het Mozesverhaal met hedendaagse Mekkaanse zorgen. Het Mozesverhaal hier (vv.3–43) is het meest persoonlijke portret van Mozes in de Voordracht: zijn kindertijd, zijn vlucht naar Midjan, zijn huwelijk.
 
 ## Sleutelvertalingen
 
@@ -25,11 +25,11 @@ Het Korachverhaal is een waarschuwing tegen het vergoden van rijkdom. "Het is mi
 
 ## v.85: De plaats van terugkeer
 
-"Zal u voorzeker terugbrengen naar een plaats van terugkeer" (معاد, ma'aad). Conventioneel gelezen als de terugkeer naar Mekka, maar de wortel ع-و-د (terugkeren) laat een diepere lezing toe: God brengt de Profeet terug naar de oorsprong, de bron, de terugkerende Manifestatie. Elke dispensatie is een معاد — een terugkeer.
+"Zal u voorzeker terugbrengen naar een plaats van terugkeer" (معاد, ma'aad). Conventioneel gelezen als de terugkeer naar Mekka, maar de stam ع-و-د (terugkeren) laat een diepere lezing toe: God brengt de Profeet terug naar de oorsprong, de bron, de terugkerende Manifestatie. Elke dispensatie is een معاد — een terugkeer.
 
 ## v.88: Alles vergaat behalve Zijn Aanschijn
 
-"Alle dingen vergaan behalve Zijn aanschijn" (وَجْهَه, wajhahu). Wortel و-ج-ه: gelaat, richting, aanschijn. Dit echoot 55:26–27 nagenoeg letterlijk. Het وَجْه Gods is Zijn blijvende werkelijkheid — alles wat tijdelijk is vergaat, slechts het goddelijke Aanschijn houdt stand.
+"Alle dingen vergaan behalve Zijn aanschijn" (وَجْهَه, wajhahu). Stam و-ج-ه: gelaat, richting, aanschijn. Dit echoot 55:26–27 nagenoeg letterlijk. Het وَجْه Gods is Zijn blijvende werkelijkheid — alles wat tijdelijk is vergaat, slechts het goddelijke Aanschijn houdt stand.
 
 ## v.46: Barmhartigheid als zendingsdoel
 

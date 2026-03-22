@@ -4,15 +4,15 @@
 
 Het machtigste leger herleidt tot wat de wind verstrooit — leeggemaakt van substantie. De vogels in zwermen (أبابيل) zijn een zeldzaam woord voor een buitengewone gebeurtenis.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.2: Wortel ك-ي-د (k-j-d) — "list, krijgslist"
-"Maakte Hij hun list niet vruchteloos (كيدهم)?" Dezelfde wortel als in 77:39 en 86:15–16. Abraha's leger smeedde tegen de Ka'bah met overweldigende militaire macht; God bracht het tot niets.
+### v.2: Stam ك-ي-د (k-j-d) — "list, krijgslist"
+"Maakte Hij hun list niet vruchteloos (كيدهم)?" Dezelfde stam als in 77:39 en 86:15–16. Abraha's leger smeedde tegen de Ka'bah met overweldigende militaire macht; God bracht het tot niets.
 
 ### v.3: "vogels in zwermen (أبابيل)"
 Een zeldzaam woord, vermoedelijk betekenend in opeenvolgende golven. De zeldzaamheid is veelbetekenend: een buitengewone gebeurtenis ontvangt een buitengewoon woord. De vogels worden niet naar soort benoemd maar naar formatie — gecoördineerd goddelijk ingrijpen.
 
-### v.5: Wortel ع-ص-ف ('ayn-s-f) — "verteerde kafschillen"
+### v.5: Stam ع-ص-ف ('ayn-s-f) — "verteerde kafschillen"
 **عصف** — kaf, gedroogde schillen, wat overblijft nadat het graan verteerd is. Het machtigste leger herleidt tot wat de wind verstrooit.
 
 ## Integratieve verbanden

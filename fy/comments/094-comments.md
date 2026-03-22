@@ -4,16 +4,16 @@
 
 "Hawwe Wy dyn boarst net iepene?" De iepening fan it hert as it ûntfangend meitsjen foar iepenbaring. En it twadde grutte prinsipe: "Mei swierrichheid komt gemak" — twa kear werhelle.
 
-## Woartelanalyze
+## Stamanalyze
 
-### Woartel sh-r-h — "iepenje, útlizze" (f.1)
-"Hawwe Wy dyn boarst net iepene (sharaha)?" De woartel betsjut iepenje, útwreidzje, ferkleare. De boarst is it sit fan de siel — God iepent it om iepenbaring te ûntfangen. Deselde woartel as "shari'a" yn in oare foarm — iepening as paad.
+### Stam sh-r-h — "iepenje, útlizze" (f.1)
+"Hawwe Wy dyn boarst net iepene (sharaha)?" De stam betsjut iepenje, útwreidzje, ferkleare. De boarst is it sit fan de siel — God iepent it om iepenbaring te ûntfangen. Deselde stam as "shari'a" yn in oare foarm — iepening as paad.
 
-### Woartel y-s-r — "gemak" (ff.5-6)
+### Stam y-s-r — "gemak" (ff.5-6)
 "Mei swierrichheid (al-'usr) komt gemak (al-yusr). Mei swierrichheid komt gemak." Twa kear werhelle — net ien mar TWA kear gemak foar elke swierrichheid. De werhelling is sels in belofte fan oerfloed.
 
-### Woartel w-z-r — "lêst" (f.2)
-"En fuortnommen fan dy dyn lêst (wizraka)." De woartel betsjut lêst, gewicht, sûnde. De lêst dy't "dyn rêch buts" (f.3) is fuortnommen — de profetyske missy is swier mar de lêst wurdt drage.
+### Stam w-z-r — "lêst" (f.2)
+"En fuortnommen fan dy dyn lêst (wizraka)." De stam betsjut lêst, gewicht, sûnde. De lêst dy't "dyn rêch buts" (f.3) is fuortnommen — de profetyske missy is swier mar de lêst wurdt drage.
 
 ## Yntegrative Ferbiningen
 

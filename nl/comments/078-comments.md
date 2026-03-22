@@ -4,15 +4,15 @@
 
 De "geweldige tijding" waarover zij twisten is niet slechts nieuws maar profetische aankondiging. Elke profeet brengt een naba' — de vraag "waarover bevragen zij elkander?" is eigenlijk: welke profetie betwist gij?
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.2: Wortel ن-ب-أ (n-b-alif) — "tijding, profetie"
-**النبأ** deelt de wortel met نبي (nabie, profeet). De "geweldige tijding" is een profetische aankondiging.
+### v.2: Stam ن-ب-أ (n-b-alif) — "tijding, profetie"
+**النبأ** deelt de stam met نبي (nabie, profeet). De "geweldige tijding" is een profetische aankondiging.
 
-### v.17: Wortel ف-ص-ل (f-s-l) — "scheiden"
+### v.17: Stam ف-ص-ل (f-s-l) — "scheiden"
 De "Dag der Scheiding" (الفصل) — de Dag scheidt niet slechts, zij scheidt waarheid van valsheid als een wever draden scheidt.
 
-### v.40: Wortel ك-ف-ر (k-f-r) — "verhullen"
+### v.40: Stam ك-ف-ر (k-f-r) — "verhullen"
 "Degene die verhulde zal zeggen: Had ik maar stof mogen zijn!" De soera eindigt met de verhuller die wenst te worden tot de aarde die bedekt — een wrange ironie. Wie waarheid verhulde wenst zelf verhuld te worden.
 
 ## Integratieve verbanden

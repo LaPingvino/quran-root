@@ -13,7 +13,7 @@ In v.4: "zij die verhullen zeggen: 'Dit is niets dan een leugen.'" In v.26: "de 
 In v.30: "mijn volk heeft deze Voordracht als een verlaten zaak genomen" — de klacht van de Boodschapper. In v.32 wordt de geleidelijke openbaring verdedigd: "opdat Wij daardoor uw hart mogen versterken; en Wij hebben haar gereciteerd, een recitering." Het woord ترتيل (tartiel) — de gemeten, ritmische voordracht — beschrijft de wijze waarop de Voordracht moet worden ontvangen: langzaam, indringend, niet alles tegelijk.
 
 ### "Onderscheid" voor الفرقان (al-foerqaan)
-Wortel ف-ر-ق: scheiden, onderscheiden. Het Onderscheid is niet een statisch document maar een werkend instrument — het vermogen om waarheid van valsheid te schiften. Dezelfde wortel verschijnt in 8:29 als iets dat God aan de godvrezenden schenkt.
+Stam ف-ر-ق: scheiden, onderscheiden. Het Onderscheid is niet een statisch document maar een werkend instrument — het vermogen om waarheid van valsheid te schiften. Dezelfde stam verschijnt in 8:29 als iets dat God aan de godvrezenden schenkt.
 
 ## v.53: De twee zeeën
 
@@ -21,11 +21,11 @@ Wortel ف-ر-ق: scheiden, onderscheiden. Het Onderscheid is niet een statisch d
 
 ## v.54: Uit water geschapen
 
-"Hij is het Die uit water een sterveling schiep en hem maakte tot verwanten door bloed en door huwelijk." Wortel خ-ل-ق (scheppen) en de wateroorsprong echoten 21:30 — alle leven komt voort uit water.
+"Hij is het Die uit water een sterveling schiep en hem maakte tot verwanten door bloed en door huwelijk." Stam خ-ل-ق (scheppen) en de wateroorsprong echoten 21:30 — alle leven komt voort uit water.
 
 ## v.70: De alchemie van berouw
 
-"God zal hun kwade daden omzetten in goede daden." Wortel ب-د-ل: verwisselen, omzetten. Dit is geen uitwissing maar transformatie — de substantie der zonde wordt omgezet in deugd. Het is alchemie, geen boekhouding. De kwade daden worden, wanneer berouwen, het ruwe materiaal van het goede.
+"God zal hun kwade daden omzetten in goede daden." Stam ب-د-ل: verwisselen, omzetten. Dit is geen uitwissing maar transformatie — de substantie der zonde wordt omgezet in deugd. Het is alchemie, geen boekhouding. De kwade daden worden, wanneer berouwen, het ruwe materiaal van het goede.
 
 ## vv.63–76: De dienaren des Albarmhartigen
 

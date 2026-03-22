@@ -4,16 +4,16 @@
 
 Economisch onrecht als toegangszonde: bedrieg de weegschaal en het hart verroest, het hart verroest en gij wordt van uw Heer afgesluierd.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.14: Wortel ر-ي-ن (r-j-n) — "verroesten"
+### v.14: Stam ر-ي-ن (r-j-n) — "verroesten"
 "Hetgeen zij verdienden heeft op hun harten verroest (ران)." Roest of aanslag die zich op een oppervlak ophoopt — een bedekkingsparallel met ك-ف-ر: waar kafara waarheid opzettelijk bedekt, bedekt raana het hart door opgehoopte zonde. Het hart wordt ondoorzichtig — en v.15 volgt: "zij zullen van hun Heer afgesluierd zijn." Roest leidt tot sluier.
 
-### v.1: Wortel ط-ف-ف (th-f-f) — "te kort doen"
-**المطففين** — bedriegers die voluit nemen maar minder geven. De wortel betekent afromen, verminderen. De soera plaatst economisch onrecht als de toegangszonde.
+### v.1: Stam ط-ف-ف (th-f-f) — "te kort doen"
+**المطففين** — bedriegers die voluit nemen maar minder geven. De stam betekent afromen, verminderen. De soera plaatst economisch onrecht als de toegangszonde.
 
-### vv.25–26: Wortel خ-ت-م (ch-t-m) — "verzegelen"
-"Verzegelde nectar wier zegel muskus is." **مختوم** — dezelfde wortel als "Zegel der Profeten" (33:40). De rechtvaardigen drinken uit een verzegeld vat — gewaarmerkt, bewaard, onvervalst.
+### vv.25–26: Stam خ-ت-م (ch-t-m) — "verzegelen"
+"Verzegelde nectar wier zegel muskus is." **مختوم** — dezelfde stam als "Zegel der Profeten" (33:40). De rechtvaardigen drinken uit een verzegeld vat — gewaarmerkt, bewaard, onvervalst.
 
 ## Integratieve verbanden
 

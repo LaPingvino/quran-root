@@ -4,12 +4,12 @@
 
 De soera opent met God die de klacht eener vrouw over haar echtgenoot hoort en bevestigt. De twisting ter wille van rechtvaardigheid is gewettigd.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ج-د-ل (dj-d-l) — "twisten, beargumenteren"
+### v.1: Stam ج-د-ل (dj-d-l) — "twisten, beargumenteren"
 De vrouw die twist wordt door God gehoord — haar argument wordt niet afgewezen maar bekrachtigd door goddelijke aandacht. De Vorm III (مُجَادَلَة) duidt op wederkerige betrokkenheid: zij argumenteert met de Profeet, niet slechts tegen hem.
 
-### vv.7–10: Wortel ن-ج-و (n-dj-w) — "heimelijk beraad"
+### vv.7–10: Stam ن-ج-و (n-dj-w) — "heimelijk beraad"
 "Er is geen heimelijk beraad van drieën of Hij is hun vierde." Gods aanwezigheid maakt alle verhulling doorzichtig. Het batin van menselijk gekonkel is altijd zahir voor God.
 
 ### vv.19, 22: "de partij des duivels" vs. "de partij Gods"

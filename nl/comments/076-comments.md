@@ -4,12 +4,12 @@
 
 De soera confronteert de Mens met een tijd vóór zijn openbaarwording — toen hij verborgen was, onherinnerd. De mens was eens in een j-n-n-staat (verhuld) en werd voortgebracht in een '-n-s-staat (geopenbaard).
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel إ-ن-س (alif-n-s) — "de mens"
-"Is er over de mens (الإنسان) een tijdspanne gekomen waarin hij een onherinnerd ding was?" De wortel draagt de zin van maatschappelijk, zichtbaar, vertrouwd zijn — het tegengestelde van ج-ن-ن (verhulling). De Mens is de zichtbare tegenhanger der Verschijningen.
+### v.1: Stam إ-ن-س (alif-n-s) — "de mens"
+"Is er over de mens (الإنسان) een tijdspanne gekomen waarin hij een onherinnerd ding was?" De stam draagt de zin van maatschappelijk, zichtbaar, vertrouwd zijn — het tegengestelde van ج-ن-ن (verhulling). De Mens is de zichtbare tegenhanger der Verschijningen.
 
-### v.3: Wortel ك-ف-ر (k-f-r) vs. ش-ك-ر (sj-k-r) — "bedekken" vs. "danken"
+### v.3: Stam ك-ف-ر (k-f-r) vs. ش-ك-ر (sj-k-r) — "bedekken" vs. "danken"
 "Hetzij hij dankbaar is (شاكرا) of ondankbaar (كفورا)." De twee mogelijkheden: شُكْر (opengaan, dankbaarheid) versus كُفْر (bedekken, ondankbaarheid). De fundamentele keuze van de mens tussen ontsluieren en verhullen.
 
 ### v.18: "een bron daarin genaamd Salsabiel (سلسبيل)"

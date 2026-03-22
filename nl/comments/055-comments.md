@@ -15,13 +15,13 @@ De naam Ali loopt door de gehele keten der openbaring:
 - **Bahaa'u'llaah** (Mirza Husayn-Ali) — die de naam Ali droeg en wiens aanspraak eveneens werd tegengesproken
 
 ### "tegenspreken" voor تُكَذِّبَانِ
-Wortel ك-ذ-ب: liegen, voor onwaar verklaren, tegenspreken. "Tegenspreken" vangt het actieve verzet beter dan "ontkennen."
+Stam ك-ذ-ب: liegen, voor onwaar verklaren, tegenspreken. "Tegenspreken" vangt het actieve verzet beter dan "ontkennen."
 
 ### "verschijning" voor جِنّ (djinn)
-Wortel ج-ن-ن: verhullen, verbergen. Een verschijning is precies iets verborgens dat toch aanwezig is.
+Stam ج-ن-ن: verhullen, verbergen. Een verschijning is precies iets verborgens dat toch aanwezig is.
 
 ### "Voordracht" voor القرآن
-Wortel ق-ر-أ: voordragen, hardop lezen, vergaren. "De Voordracht" herstelt de betekenis van het woord — een actief proces, geen statische boektitel.
+Stam ق-ر-أ: voordragen, hardop lezen, vergaren. "De Voordracht" herstelt de betekenis van het woord — een actief proces, geen statische boektitel.
 
 ## vv.1–4: De boog van God naar menselijke expressie
 
@@ -42,7 +42,7 @@ De twee zeeën ontmoeten elkaar, doch de scheidswand (بَرْزَخ, barzach) t
 
 ## v.46: De Standplaats en de twee verborgen Rijken
 
-"Voor hem die de Standplaats zijns Heren vreest, twee verborgen Rijken." De مَقَام (maqaam) is waar God *staat* — Zijn Manifestatie. De twee جَنَّتَان (verborgen Rijken, wortel ج-ن-ن) komen overeen met de Tweelingmanifestaties (de Baab en Bahaa'u'llaah) in de bahaa'i-theologie.
+"Voor hem die de Standplaats zijns Heren vreest, twee verborgen Rijken." De مَقَام (maqaam) is waar God *staat* — Zijn Manifestatie. De twee جَنَّتَان (verborgen Rijken, stam ج-ن-ن) komen overeen met de Tweelingmanifestaties (de Baab en Bahaa'u'llaah) in de bahaa'i-theologie.
 
 ## De doordrenking met j-n-n
 
@@ -50,20 +50,20 @@ Het tuingedeelte is niet slechts *over* tuinen — het IS de verborgen dimensie.
 - جَنَّة (djanna) = de verborgen plaats
 - جِنّ / جَانّ (djinn/djaan) = de verborgen wezens (vv.56, 74)
 - جَنَى (djana) = de oogst van het verborgene (v.54)
-- بَطَائِن (bataa'in) = de innerlijke voeringen (v.54) — van de wortel van بَاطِن (het Verborgene)
+- بَطَائِن (bataa'in) = de innerlijke voeringen (v.54) — van de stam van بَاطِن (het Verborgene)
 - عَبْقَرِيّ ('abqari) = kunstwerken uit 'Abqar, de legendarische djinnplaats (v.76)
 
-De "tuin"-lezing — rustbedden, fruit, schone maagden — is het ظَاهِر (zahir, het schijnbare). De wortellezing onthult het بَاطِن (batin, het verborgene): dit gedeelte beschrijft de ontsluiering van verborgen geestelijke werkelijkheid.
+De "tuin"-lezing — rustbedden, fruit, schone maagden — is het ظَاهِر (zahir, het schijnbare). De stamlezing onthult het بَاطِن (batin, het verborgene): dit gedeelte beschrijft de ontsluiering van verborgen geestelijke werkelijkheid.
 
 ## v.54: Innerlijke voeringen van stralendheid
 
-بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ — إِسْتَبْرَق als Arabische wortel gelezen: إِسْتَ (Vorm X voorvoegsel, "zoekend/trekkend") + بَرَقَ (b-r-q, flitsen, stralen — de wortel van bliksem en Boeraaq). Aldus إستبرق = "dat wat naar straling zoekt." De innerlijke voeringen (het batin) zoeken te stralen — de verborgen dimensie schijnt met eigen licht.
+بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ — إِسْتَبْرَق als Arabische stam gelezen: إِسْتَ (Vorm X voorvoegsel, "zoekend/trekkend") + بَرَقَ (b-r-q, flitsen, stralen — de stam van bliksem en Boeraaq). Aldus إستبرق = "dat wat naar straling zoekt." De innerlijke voeringen (het batin) zoeken te stralen — de verborgen dimensie schijnt met eigen licht.
 
 ## v.72: De Teruggekeerden
 
 حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ — "De Teruggekeerden, geborgen in de woningen."
 
-- **حُور** (hoer) — wortel ح-و-ر: terugkeren, wit maken. **Dezelfde wortel** als حَوَارِيُّون (hawariejjoen) — **de discipelen van Jezus** (3:52, 5:111). De hoer van het paradijs en de discipelen van Jezus zijn hetzelfde wortelwoord — de toegewijde gemeenschap van Teruggekeerden. "De Teruggekeerden" vervangt "schone maagden" geheel.
+- **حُور** (hoer) — stam ح-و-ر: terugkeren, wit maken. **Dezelfde stam** als حَوَارِيُّون (hawariejjoen) — **de discipelen van Jezus** (3:52, 5:111). De hoer van het paradijs en de discipelen van Jezus zijn hetzelfde stamwoord — de toegewijde gemeenschap van Teruggekeerden. "De Teruggekeerden" vervangt "schone maagden" geheel.
 - De Jezusverbinding verdiept de lezing: de hawariejjoen waren vissers, tollenaars, de geringen — zij die de maatschappij over het hoofd zag. De hoer/Teruggekeerden zijn dezelfde soort gemeenschap: zij die vanuit de marge tot God terugkeren.
 
 ## v.29: "Elke dag is Hij bezig met een zaak"
@@ -72,9 +72,9 @@ Bahaa'u'llaah haalt dit vers aan in het Boek der Zekerheid om te betogen dat God
 
 ## v.76: Fris en verborgen
 
-خُضْر (khodr) — wortel خ-ض-ر: primair *fris*, vochtig, nieuwgegroeid, levend. De kleur groen is een gevolg van frisheid. Het woord draagt ook de weerklank van **al-Khidr** — de Frisse/Groene van Soera 18, die verborgen, levende wijsheid belichaamt.
+خُضْر (khodr) — stam خ-ض-ر: primair *fris*, vochtig, nieuwgegroeid, levend. De kleur groen is een gevolg van frisheid. Het woord draagt ook de weerklank van **al-Khidr** — de Frisse/Groene van Soera 18, die verborgen, levende wijsheid belichaamt.
 
-عَبْقَرِيّ ('abqari) — van 'Abqar, een legendarische plaats **bewoond door de djinn**. "Wonderbare schoonheden van het verborgene" — verbonden met de j-n-n-wortel die het gehele tuingedeelte doordrenkt.
+عَبْقَرِيّ ('abqari) — van 'Abqar, een legendarische plaats **bewoond door de djinn**. "Wonderbare schoonheden van het verborgene" — verbonden met de j-n-n-stam die het gehele tuingedeelte doordrenkt.
 
 ## Integratieve verbanden
 

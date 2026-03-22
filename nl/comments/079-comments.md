@@ -2,17 +2,17 @@
 
 ## Algemene opmerkingen
 
-Wezens die ontrukken of uittrekken — zielen uit lichamen, sterren uit banen, wortels uit de grond. De dubbelzinnigheid is opzettelijk.
+Wezens die ontrukken of uittrekken — zielen uit lichamen, sterren uit banen, stammen uit de grond. De dubbelzinnigheid is opzettelijk.
 
-## Wortelanalyse
+## Stamanalyse
 
-### v.1: Wortel ن-ز-ع (n-z-ayn) — "ontrukken, uittrekken"
-**النازعات** — dezelfde gewelddadige ontrukking geldt voor dood, kosmische ontbinding en ontworteling der goddelozen.
+### v.1: Stam ن-ز-ع (n-z-ayn) — "ontrukken, uittrekken"
+**النازعات** — dezelfde gewelddadige ontrukking geldt voor dood, kosmische ontbinding en ontstaming der goddelozen.
 
-### v.18: Wortel ز-ك-و (z-k-w) — "zuiveren"
-Mozes vraagt Farao: "Hebt gij de wil u te zuiveren?" **تزكى** — dezelfde wortel als زكاة (zakaat, zuiverende aalmoes). Farao wordt niet eerst bedreigd maar uitgenodigd tot zuivering. Zijn weigering in v.21 ("hij loochende en was ongehoorzaam") maakt de straf rechtvaardig.
+### v.18: Stam ز-ك-و (z-k-w) — "zuiveren"
+Mozes vraagt Farao: "Hebt gij de wil u te zuiveren?" **تزكى** — dezelfde stam als زكاة (zakaat, zuiverende aalmoes). Farao wordt niet eerst bedreigd maar uitgenodigd tot zuivering. Zijn weigering in v.21 ("hij loochende en was ongehoorzaam") maakt de straf rechtvaardig.
 
-### v.41: Wortel ج-ن-ن (j-n-n) — "verhullen"
+### v.41: Stam ج-ن-ن (j-n-n) — "verhullen"
 "De Tuin (الجنة) zal zijn toevlucht zijn" — de verborgen plaats. Gepaard met v.40 "die de Standplaats zijns Heren vreesde" — het verborgen Rijk is toevlucht voor wie zich niet voor Gods blik verhulde.
 
 ## Integratieve verbanden
