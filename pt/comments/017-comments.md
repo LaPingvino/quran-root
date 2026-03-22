@@ -40,9 +40,9 @@ Uma sequencia concentrada de mandamentos eticos: adorar somente a Deus, honrar o
 
 "Fazemos descer da Recitacao aquilo que e cura e misericordia para os crentes." Paralelo a 10:57 -- a Recitacao como medicina, nao apenas como lei.
 
-### v.104 -- a promessa da Derradeira Vida
+### v.104 -- a promessa do Derradeiro -- raiz l-f-f
 
-"Quando vier a promessa da Derradeira Vida, trar-vos-emos como multidao." Dito aos Filhos de Israel, ligando a dispersao e reuniao do povo de Israel ao plano divino.
+"Quando vier a promessa do Derradeiro, trar-vos-emos entremesclados." A palavra لَفِيفًا (lafifan, raiz ل-ف-ف: envolver, entremesclar) nao significa simplesmente "multidao" mas uma multidao mista — povos entrelacados. A promessa aos Filhos de Israel nao e de retorno como nacao separada, mas de reuniao entremesclada com outros povos.
 
 ## Ligacoes Integrativas
 
